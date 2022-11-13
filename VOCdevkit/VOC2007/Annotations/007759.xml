@@ -1,0 +1,38 @@
+<annotation>
+	<folder>未命名文件夹 2</folder>
+	<filename>1759.jpg</filename>
+	<path>/home/fukai/桌面/未命名文件夹 2/1759.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>214</ymin>
+			<xmax>153</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>160</ymin>
+			<xmax>397</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>

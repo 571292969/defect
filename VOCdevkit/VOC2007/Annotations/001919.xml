@@ -1,0 +1,26 @@
+<annotation>
+	<folder>切图</folder>
+	<filename>001919.jpg</filename>
+	<path>/home/fukai/图片/切图/001919.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>breakpoint</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>197</ymin>
+			<xmax>184</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

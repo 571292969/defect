@@ -1,0 +1,26 @@
+<annotation>
+	<folder>breakpoint处理</folder>
+	<filename>002366.jpg</filename>
+	<path>/home/fukai/图片/breakpoint处理/002366.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>breakpoint</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>43</ymin>
+			<xmax>410</xmax>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+</annotation>

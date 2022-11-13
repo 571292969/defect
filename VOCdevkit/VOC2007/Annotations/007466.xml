@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pic</folder>
+	<filename>1466.jpg</filename>
+	<path>/home/glovaer/labelImg/pic/1466.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>137</ymin>
+			<xmax>402</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

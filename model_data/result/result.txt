@@ -1,0 +1,3340 @@
+000001.jpg detect_result£º
+find  0 target(s) 
+
+-----------------------------
+
+000002.jpg detect_result£º
+find  0 target(s) 
+
+-----------------------------
+
+000003.jpg detect_result£º
+find  0 target(s) 
+
+-----------------------------
+
+000004.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.7633877 
+location: top: 159¡¢ bottom: 220¡¢ left: 157¡¢ right: 222
+####  center location:(189.5,189.5)  ####
+
+breakpoint  score: 0.894545 
+location: top: 326¡¢ bottom: 384¡¢ left: 1284¡¢ right: 1346
+####  center location:(1315.0,355.0)  ####
+
+
+-----------------------------
+
+000005.jpg detect_result£º
+find  6 target(s) 
+breakpoint  score: 0.4646346 
+location: top: 241¡¢ bottom: 298¡¢ left: 251¡¢ right: 313
+####  center location:(282.0,269.5)  ####
+
+breakpoint  score: 0.5330342 
+location: top: 898¡¢ bottom: 955¡¢ left: 236¡¢ right: 302
+####  center location:(269.0,926.5)  ####
+
+breakpoint  score: 0.56829935 
+location: top: 599¡¢ bottom: 657¡¢ left: 419¡¢ right: 481
+####  center location:(450.0,628.0)  ####
+
+breakpoint  score: 0.65663856 
+location: top: 768¡¢ bottom: 828¡¢ left: 422¡¢ right: 485
+####  center location:(453.5,798.0)  ####
+
+breakpoint  score: 0.87165743 
+location: top: 158¡¢ bottom: 219¡¢ left: 157¡¢ right: 221
+####  center location:(189.0,188.5)  ####
+
+breakpoint  score: 0.95483094 
+location: top: 326¡¢ bottom: 385¡¢ left: 1283¡¢ right: 1346
+####  center location:(1314.5,355.5)  ####
+
+
+-----------------------------
+
+000006.jpg detect_result£º
+find  10 target(s) 
+breakpoint  score: 0.3652675 
+location: top: 217¡¢ bottom: 271¡¢ left: 159¡¢ right: 223
+####  center location:(191.0,244.0)  ####
+
+breakpoint  score: 0.4338894 
+location: top: 42¡¢ bottom: 101¡¢ left: 163¡¢ right: 224
+####  center location:(193.5,71.5)  ####
+
+breakpoint  score: 0.5392047 
+location: top: 1242¡¢ bottom: 1302¡¢ left: 901¡¢ right: 962
+####  center location:(931.5,1272.0)  ####
+
+breakpoint  score: 0.62627876 
+location: top: 893¡¢ bottom: 954¡¢ left: 246¡¢ right: 310
+####  center location:(278.0,923.5)  ####
+
+breakpoint  score: 0.63073915 
+location: top: 624¡¢ bottom: 684¡¢ left: 1220¡¢ right: 1284
+####  center location:(1252.0,654.0)  ####
+
+breakpoint  score: 0.7070455 
+location: top: 242¡¢ bottom: 299¡¢ left: 251¡¢ right: 312
+####  center location:(281.5,270.5)  ####
+
+breakpoint  score: 0.7986268 
+location: top: 770¡¢ bottom: 829¡¢ left: 423¡¢ right: 484
+####  center location:(453.5,799.5)  ####
+
+breakpoint  score: 0.8023677 
+location: top: 597¡¢ bottom: 655¡¢ left: 420¡¢ right: 483
+####  center location:(451.5,626.0)  ####
+
+breakpoint  score: 0.9331858 
+location: top: 159¡¢ bottom: 217¡¢ left: 156¡¢ right: 222
+####  center location:(189.0,188.0)  ####
+
+breakpoint  score: 0.96066374 
+location: top: 327¡¢ bottom: 386¡¢ left: 1282¡¢ right: 1346
+####  center location:(1314.0,356.5)  ####
+
+
+-----------------------------
+
+000007.jpg detect_result£º
+find  11 target(s) 
+breakpoint  score: 0.42773497 
+location: top: 1181¡¢ bottom: 1241¡¢ left: 782¡¢ right: 844
+####  center location:(813.0,1211.0)  ####
+
+breakpoint  score: 0.71568877 
+location: top: 42¡¢ bottom: 100¡¢ left: 162¡¢ right: 224
+####  center location:(193.0,71.0)  ####
+
+breakpoint  score: 0.7457463 
+location: top: 893¡¢ bottom: 953¡¢ left: 246¡¢ right: 309
+####  center location:(277.5,923.0)  ####
+
+breakpoint  score: 0.7516608 
+location: top: 216¡¢ bottom: 270¡¢ left: 159¡¢ right: 222
+####  center location:(190.5,243.0)  ####
+
+breakpoint  score: 0.8160816 
+location: top: 623¡¢ bottom: 683¡¢ left: 1221¡¢ right: 1283
+####  center location:(1252.0,653.0)  ####
+
+breakpoint  score: 0.8233637 
+location: top: 242¡¢ bottom: 299¡¢ left: 252¡¢ right: 312
+####  center location:(282.0,270.5)  ####
+
+breakpoint  score: 0.8294414 
+location: top: 770¡¢ bottom: 830¡¢ left: 425¡¢ right: 484
+####  center location:(454.5,800.0)  ####
+
+breakpoint  score: 0.8544765 
+location: top: 1241¡¢ bottom: 1300¡¢ left: 901¡¢ right: 963
+####  center location:(932.0,1270.5)  ####
+
+breakpoint  score: 0.88152355 
+location: top: 596¡¢ bottom: 654¡¢ left: 420¡¢ right: 483
+####  center location:(451.5,625.0)  ####
+
+breakpoint  score: 0.94867295 
+location: top: 158¡¢ bottom: 216¡¢ left: 156¡¢ right: 222
+####  center location:(189.0,187.0)  ####
+
+breakpoint  score: 0.9689376 
+location: top: 327¡¢ bottom: 386¡¢ left: 1282¡¢ right: 1346
+####  center location:(1314.0,356.5)  ####
+
+
+-----------------------------
+
+000008.jpg detect_result£º
+find  11 target(s) 
+breakpoint  score: 0.73190063 
+location: top: 1182¡¢ bottom: 1241¡¢ left: 781¡¢ right: 843
+####  center location:(812.0,1211.5)  ####
+
+breakpoint  score: 0.8020068 
+location: top: 892¡¢ bottom: 952¡¢ left: 246¡¢ right: 309
+####  center location:(277.5,922.0)  ####
+
+breakpoint  score: 0.82247144 
+location: top: 42¡¢ bottom: 99¡¢ left: 162¡¢ right: 222
+####  center location:(192.0,70.5)  ####
+
+breakpoint  score: 0.84337753 
+location: top: 771¡¢ bottom: 830¡¢ left: 425¡¢ right: 484
+####  center location:(454.5,800.5)  ####
+
+breakpoint  score: 0.8768699 
+location: top: 242¡¢ bottom: 299¡¢ left: 252¡¢ right: 311
+####  center location:(281.5,270.5)  ####
+
+breakpoint  score: 0.89006084 
+location: top: 215¡¢ bottom: 270¡¢ left: 160¡¢ right: 222
+####  center location:(191.0,242.5)  ####
+
+breakpoint  score: 0.8937244 
+location: top: 623¡¢ bottom: 682¡¢ left: 1221¡¢ right: 1283
+####  center location:(1252.0,652.5)  ####
+
+breakpoint  score: 0.9126103 
+location: top: 1240¡¢ bottom: 1299¡¢ left: 901¡¢ right: 962
+####  center location:(931.5,1269.5)  ####
+
+breakpoint  score: 0.913795 
+location: top: 596¡¢ bottom: 654¡¢ left: 420¡¢ right: 484
+####  center location:(452.0,625.0)  ####
+
+breakpoint  score: 0.94952357 
+location: top: 158¡¢ bottom: 215¡¢ left: 156¡¢ right: 221
+####  center location:(188.5,186.5)  ####
+
+breakpoint  score: 0.9691796 
+location: top: 328¡¢ bottom: 386¡¢ left: 1282¡¢ right: 1345
+####  center location:(1313.5,357.0)  ####
+
+
+-----------------------------
+
+000009.jpg detect_result£º
+find  11 target(s) 
+breakpoint  score: 0.82890093 
+location: top: 42¡¢ bottom: 99¡¢ left: 162¡¢ right: 222
+####  center location:(192.0,70.5)  ####
+
+breakpoint  score: 0.8379906 
+location: top: 892¡¢ bottom: 951¡¢ left: 247¡¢ right: 309
+####  center location:(278.0,921.5)  ####
+
+breakpoint  score: 0.864634 
+location: top: 772¡¢ bottom: 830¡¢ left: 425¡¢ right: 485
+####  center location:(455.0,801.0)  ####
+
+breakpoint  score: 0.8797738 
+location: top: 1182¡¢ bottom: 1241¡¢ left: 782¡¢ right: 842
+####  center location:(812.0,1211.5)  ####
+
+breakpoint  score: 0.9003873 
+location: top: 242¡¢ bottom: 299¡¢ left: 252¡¢ right: 311
+####  center location:(281.5,270.5)  ####
+
+breakpoint  score: 0.9141004 
+location: top: 215¡¢ bottom: 270¡¢ left: 160¡¢ right: 221
+####  center location:(190.5,242.5)  ####
+
+breakpoint  score: 0.9277951 
+location: top: 595¡¢ bottom: 653¡¢ left: 421¡¢ right: 484
+####  center location:(452.5,624.0)  ####
+
+breakpoint  score: 0.92831194 
+location: top: 1240¡¢ bottom: 1299¡¢ left: 902¡¢ right: 962
+####  center location:(932.0,1269.5)  ####
+
+breakpoint  score: 0.9310113 
+location: top: 622¡¢ bottom: 682¡¢ left: 1222¡¢ right: 1283
+####  center location:(1252.5,652.0)  ####
+
+breakpoint  score: 0.94284916 
+location: top: 158¡¢ bottom: 215¡¢ left: 156¡¢ right: 221
+####  center location:(188.5,186.5)  ####
+
+breakpoint  score: 0.9680042 
+location: top: 329¡¢ bottom: 386¡¢ left: 1282¡¢ right: 1345
+####  center location:(1313.5,357.5)  ####
+
+
+-----------------------------
+
+000010.jpg detect_result£º
+find  11 target(s) 
+breakpoint  score: 0.8236681 
+location: top: 42¡¢ bottom: 99¡¢ left: 162¡¢ right: 222
+####  center location:(192.0,70.5)  ####
+
+breakpoint  score: 0.85804594 
+location: top: 891¡¢ bottom: 951¡¢ left: 247¡¢ right: 309
+####  center location:(278.0,921.0)  ####
+
+breakpoint  score: 0.8662305 
+location: top: 772¡¢ bottom: 830¡¢ left: 425¡¢ right: 485
+####  center location:(455.0,801.0)  ####
+
+breakpoint  score: 0.9139341 
+location: top: 215¡¢ bottom: 270¡¢ left: 161¡¢ right: 221
+####  center location:(191.0,242.5)  ####
+
+breakpoint  score: 0.9142646 
+location: top: 242¡¢ bottom: 300¡¢ left: 252¡¢ right: 311
+####  center location:(281.5,271.0)  ####
+
+breakpoint  score: 0.9162917 
+location: top: 1182¡¢ bottom: 1241¡¢ left: 782¡¢ right: 842
+####  center location:(812.0,1211.5)  ####
+
+breakpoint  score: 0.91863376 
+location: top: 595¡¢ bottom: 653¡¢ left: 421¡¢ right: 484
+####  center location:(452.5,624.0)  ####
+
+breakpoint  score: 0.9376069 
+location: top: 1239¡¢ bottom: 1298¡¢ left: 902¡¢ right: 962
+####  center location:(932.0,1268.5)  ####
+
+breakpoint  score: 0.9385378 
+location: top: 157¡¢ bottom: 215¡¢ left: 156¡¢ right: 221
+####  center location:(188.5,186.0)  ####
+
+breakpoint  score: 0.9528138 
+location: top: 622¡¢ bottom: 682¡¢ left: 1222¡¢ right: 1283
+####  center location:(1252.5,652.0)  ####
+
+breakpoint  score: 0.9730091 
+location: top: 328¡¢ bottom: 386¡¢ left: 1282¡¢ right: 1345
+####  center location:(1313.5,357.0)  ####
+
+
+-----------------------------
+
+000011.jpg detect_result£º
+find  11 target(s) 
+breakpoint  score: 0.7932524 
+location: top: 42¡¢ bottom: 98¡¢ left: 162¡¢ right: 223
+####  center location:(192.5,70.0)  ####
+
+breakpoint  score: 0.8817665 
+location: top: 887¡¢ bottom: 946¡¢ left: 247¡¢ right: 311
+####  center location:(279.0,916.5)  ####
+
+breakpoint  score: 0.8834422 
+location: top: 214¡¢ bottom: 270¡¢ left: 161¡¢ right: 222
+####  center location:(191.5,242.0)  ####
+
+breakpoint  score: 0.88581854 
+location: top: 772¡¢ bottom: 830¡¢ left: 425¡¢ right: 485
+####  center location:(455.0,801.0)  ####
+
+breakpoint  score: 0.9191674 
+location: top: 595¡¢ bottom: 653¡¢ left: 421¡¢ right: 485
+####  center location:(453.0,624.0)  ####
+
+breakpoint  score: 0.9299523 
+location: top: 241¡¢ bottom: 299¡¢ left: 252¡¢ right: 312
+####  center location:(282.0,270.0)  ####
+
+breakpoint  score: 0.9332956 
+location: top: 1181¡¢ bottom: 1241¡¢ left: 782¡¢ right: 842
+####  center location:(812.0,1211.0)  ####
+
+breakpoint  score: 0.9384174 
+location: top: 1239¡¢ bottom: 1298¡¢ left: 903¡¢ right: 963
+####  center location:(933.0,1268.5)  ####
+
+breakpoint  score: 0.9393516 
+location: top: 157¡¢ bottom: 215¡¢ left: 157¡¢ right: 222
+####  center location:(189.5,186.0)  ####
+
+breakpoint  score: 0.95310134 
+location: top: 622¡¢ bottom: 681¡¢ left: 1223¡¢ right: 1283
+####  center location:(1253.0,651.5)  ####
+
+breakpoint  score: 0.97587156 
+location: top: 328¡¢ bottom: 386¡¢ left: 1282¡¢ right: 1345
+####  center location:(1313.5,357.0)  ####
+
+
+-----------------------------
+
+000012.jpg detect_result£º
+find  11 target(s) 
+breakpoint  score: 0.7987906 
+location: top: 36¡¢ bottom: 93¡¢ left: 166¡¢ right: 226
+####  center location:(196.0,64.5)  ####
+
+breakpoint  score: 0.81685555 
+location: top: 214¡¢ bottom: 270¡¢ left: 161¡¢ right: 223
+####  center location:(192.0,242.0)  ####
+
+breakpoint  score: 0.9002266 
+location: top: 772¡¢ bottom: 830¡¢ left: 425¡¢ right: 486
+####  center location:(455.5,801.0)  ####
+
+breakpoint  score: 0.9072599 
+location: top: 887¡¢ bottom: 946¡¢ left: 248¡¢ right: 312
+####  center location:(280.0,916.5)  ####
+
+breakpoint  score: 0.922594 
+location: top: 595¡¢ bottom: 653¡¢ left: 421¡¢ right: 486
+####  center location:(453.5,624.0)  ####
+
+breakpoint  score: 0.9265712 
+location: top: 156¡¢ bottom: 216¡¢ left: 158¡¢ right: 223
+####  center location:(190.5,186.0)  ####
+
+breakpoint  score: 0.9360065 
+location: top: 1181¡¢ bottom: 1240¡¢ left: 783¡¢ right: 843
+####  center location:(813.0,1210.5)  ####
+
+breakpoint  score: 0.936684 
+location: top: 241¡¢ bottom: 298¡¢ left: 252¡¢ right: 314
+####  center location:(283.0,269.5)  ####
+
+breakpoint  score: 0.9385618 
+location: top: 1239¡¢ bottom: 1297¡¢ left: 902¡¢ right: 963
+####  center location:(932.5,1268.0)  ####
+
+breakpoint  score: 0.95558816 
+location: top: 622¡¢ bottom: 680¡¢ left: 1222¡¢ right: 1283
+####  center location:(1252.5,651.0)  ####
+
+breakpoint  score: 0.9785489 
+location: top: 328¡¢ bottom: 387¡¢ left: 1282¡¢ right: 1346
+####  center location:(1314.0,357.5)  ####
+
+
+-----------------------------
+
+000013.jpg detect_result£º
+find  11 target(s) 
+breakpoint  score: 0.69134045 
+location: top: 213¡¢ bottom: 269¡¢ left: 163¡¢ right: 225
+####  center location:(194.0,241.0)  ####
+
+breakpoint  score: 0.7217327 
+location: top: 36¡¢ bottom: 92¡¢ left: 166¡¢ right: 227
+####  center location:(196.5,64.0)  ####
+
+breakpoint  score: 0.863998 
+location: top: 154¡¢ bottom: 217¡¢ left: 160¡¢ right: 224
+####  center location:(192.0,185.5)  ####
+
+breakpoint  score: 0.90637594 
+location: top: 595¡¢ bottom: 652¡¢ left: 421¡¢ right: 487
+####  center location:(454.0,623.5)  ####
+
+breakpoint  score: 0.9067451 
+location: top: 772¡¢ bottom: 830¡¢ left: 425¡¢ right: 486
+####  center location:(455.5,801.0)  ####
+
+breakpoint  score: 0.9307244 
+location: top: 886¡¢ bottom: 946¡¢ left: 248¡¢ right: 312
+####  center location:(280.0,916.0)  ####
+
+breakpoint  score: 0.9349325 
+location: top: 240¡¢ bottom: 298¡¢ left: 252¡¢ right: 314
+####  center location:(283.0,269.0)  ####
+
+breakpoint  score: 0.9372108 
+location: top: 1181¡¢ bottom: 1240¡¢ left: 782¡¢ right: 843
+####  center location:(812.5,1210.5)  ####
+
+breakpoint  score: 0.9379685 
+location: top: 1239¡¢ bottom: 1297¡¢ left: 902¡¢ right: 964
+####  center location:(933.0,1268.0)  ####
+
+breakpoint  score: 0.96030307 
+location: top: 621¡¢ bottom: 679¡¢ left: 1222¡¢ right: 1284
+####  center location:(1253.0,650.0)  ####
+
+breakpoint  score: 0.97893953 
+location: top: 327¡¢ bottom: 387¡¢ left: 1282¡¢ right: 1346
+####  center location:(1314.0,357.0)  ####
+
+
+-----------------------------
+
+000014.jpg detect_result£º
+find  11 target(s) 
+breakpoint  score: 0.64067394 
+location: top: 211¡¢ bottom: 269¡¢ left: 164¡¢ right: 226
+####  center location:(195.0,240.0)  ####
+
+breakpoint  score: 0.6614823 
+location: top: 35¡¢ bottom: 91¡¢ left: 165¡¢ right: 229
+####  center location:(197.0,63.0)  ####
+
+breakpoint  score: 0.83215386 
+location: top: 147¡¢ bottom: 210¡¢ left: 162¡¢ right: 226
+####  center location:(194.0,178.5)  ####
+
+breakpoint  score: 0.8914798 
+location: top: 594¡¢ bottom: 652¡¢ left: 421¡¢ right: 487
+####  center location:(454.0,623.0)  ####
+
+breakpoint  score: 0.8944043 
+location: top: 771¡¢ bottom: 829¡¢ left: 424¡¢ right: 487
+####  center location:(455.5,800.0)  ####
+
+breakpoint  score: 0.924201 
+location: top: 240¡¢ bottom: 298¡¢ left: 251¡¢ right: 315
+####  center location:(283.0,269.0)  ####
+
+breakpoint  score: 0.93611455 
+location: top: 1181¡¢ bottom: 1240¡¢ left: 782¡¢ right: 843
+####  center location:(812.5,1210.5)  ####
+
+breakpoint  score: 0.9370515 
+location: top: 1239¡¢ bottom: 1297¡¢ left: 902¡¢ right: 964
+####  center location:(933.0,1268.0)  ####
+
+breakpoint  score: 0.9401622 
+location: top: 885¡¢ bottom: 945¡¢ left: 249¡¢ right: 313
+####  center location:(281.0,915.0)  ####
+
+breakpoint  score: 0.9610735 
+location: top: 622¡¢ bottom: 679¡¢ left: 1222¡¢ right: 1285
+####  center location:(1253.5,650.5)  ####
+
+breakpoint  score: 0.9770671 
+location: top: 327¡¢ bottom: 386¡¢ left: 1282¡¢ right: 1346
+####  center location:(1314.0,356.5)  ####
+
+
+-----------------------------
+
+000015.jpg detect_result£º
+find  11 target(s) 
+breakpoint  score: 0.47184378 
+location: top: 34¡¢ bottom: 90¡¢ left: 163¡¢ right: 230
+####  center location:(196.5,62.0)  ####
+
+breakpoint  score: 0.5381139 
+location: top: 210¡¢ bottom: 269¡¢ left: 165¡¢ right: 226
+####  center location:(195.5,239.5)  ####
+
+breakpoint  score: 0.7723535 
+location: top: 146¡¢ bottom: 209¡¢ left: 163¡¢ right: 227
+####  center location:(195.0,177.5)  ####
+
+breakpoint  score: 0.8343599 
+location: top: 595¡¢ bottom: 653¡¢ left: 421¡¢ right: 486
+####  center location:(453.5,624.0)  ####
+
+breakpoint  score: 0.8569669 
+location: top: 771¡¢ bottom: 829¡¢ left: 423¡¢ right: 487
+####  center location:(455.0,800.0)  ####
+
+breakpoint  score: 0.8724713 
+location: top: 240¡¢ bottom: 299¡¢ left: 251¡¢ right: 314
+####  center location:(282.5,269.5)  ####
+
+breakpoint  score: 0.92024994 
+location: top: 1181¡¢ bottom: 1240¡¢ left: 782¡¢ right: 844
+####  center location:(813.0,1210.5)  ####
+
+breakpoint  score: 0.93049324 
+location: top: 1238¡¢ bottom: 1297¡¢ left: 901¡¢ right: 965
+####  center location:(933.0,1267.5)  ####
+
+breakpoint  score: 0.93976355 
+location: top: 884¡¢ bottom: 945¡¢ left: 250¡¢ right: 314
+####  center location:(282.0,914.5)  ####
+
+breakpoint  score: 0.9581766 
+location: top: 621¡¢ bottom: 678¡¢ left: 1221¡¢ right: 1287
+####  center location:(1254.0,649.5)  ####
+
+breakpoint  score: 0.9708933 
+location: top: 327¡¢ bottom: 386¡¢ left: 1282¡¢ right: 1347
+####  center location:(1314.5,356.5)  ####
+
+
+-----------------------------
+
+000016.jpg detect_result£º
+find  10 target(s) 
+breakpoint  score: 0.5649628 
+location: top: 209¡¢ bottom: 270¡¢ left: 166¡¢ right: 226
+####  center location:(196.0,239.5)  ####
+
+breakpoint  score: 0.70065844 
+location: top: 145¡¢ bottom: 208¡¢ left: 163¡¢ right: 227
+####  center location:(195.0,176.5)  ####
+
+breakpoint  score: 0.7627862 
+location: top: 595¡¢ bottom: 653¡¢ left: 421¡¢ right: 485
+####  center location:(453.0,624.0)  ####
+
+breakpoint  score: 0.8029826 
+location: top: 771¡¢ bottom: 829¡¢ left: 423¡¢ right: 486
+####  center location:(454.5,800.0)  ####
+
+breakpoint  score: 0.830104 
+location: top: 240¡¢ bottom: 299¡¢ left: 252¡¢ right: 314
+####  center location:(283.0,269.5)  ####
+
+breakpoint  score: 0.84484 
+location: top: 1181¡¢ bottom: 1239¡¢ left: 783¡¢ right: 845
+####  center location:(814.0,1210.0)  ####
+
+breakpoint  score: 0.89312834 
+location: top: 1239¡¢ bottom: 1297¡¢ left: 902¡¢ right: 966
+####  center location:(934.0,1268.0)  ####
+
+breakpoint  score: 0.9153409 
+location: top: 884¡¢ bottom: 945¡¢ left: 250¡¢ right: 314
+####  center location:(282.0,914.5)  ####
+
+breakpoint  score: 0.93838525 
+location: top: 621¡¢ bottom: 678¡¢ left: 1222¡¢ right: 1287
+####  center location:(1254.5,649.5)  ####
+
+breakpoint  score: 0.9600599 
+location: top: 327¡¢ bottom: 388¡¢ left: 1283¡¢ right: 1347
+####  center location:(1315.0,357.5)  ####
+
+
+-----------------------------
+
+000017.jpg detect_result£º
+find  11 target(s) 
+defect  score: 0.40490687 
+location: top: 606¡¢ bottom: 649¡¢ left: 430¡¢ right: 471
+####  center location:(450.5,627.5)  ####
+
+breakpoint  score: 0.40131038 
+location: top: 596¡¢ bottom: 654¡¢ left: 421¡¢ right: 482
+####  center location:(451.5,625.0)  ####
+
+breakpoint  score: 0.42886493 
+location: top: 1182¡¢ bottom: 1238¡¢ left: 782¡¢ right: 846
+####  center location:(814.0,1210.0)  ####
+
+breakpoint  score: 0.60183007 
+location: top: 146¡¢ bottom: 207¡¢ left: 163¡¢ right: 227
+####  center location:(195.0,176.5)  ####
+
+breakpoint  score: 0.6476457 
+location: top: 210¡¢ bottom: 270¡¢ left: 165¡¢ right: 225
+####  center location:(195.0,240.0)  ####
+
+breakpoint  score: 0.78257245 
+location: top: 240¡¢ bottom: 298¡¢ left: 251¡¢ right: 314
+####  center location:(282.5,269.0)  ####
+
+breakpoint  score: 0.7829987 
+location: top: 623¡¢ bottom: 678¡¢ left: 1223¡¢ right: 1284
+####  center location:(1253.5,650.5)  ####
+
+breakpoint  score: 0.801839 
+location: top: 771¡¢ bottom: 828¡¢ left: 421¡¢ right: 487
+####  center location:(454.0,799.5)  ####
+
+breakpoint  score: 0.8237668 
+location: top: 1239¡¢ bottom: 1296¡¢ left: 902¡¢ right: 967
+####  center location:(934.5,1267.5)  ####
+
+breakpoint  score: 0.8756077 
+location: top: 884¡¢ bottom: 945¡¢ left: 250¡¢ right: 313
+####  center location:(281.5,914.5)  ####
+
+breakpoint  score: 0.94818616 
+location: top: 327¡¢ bottom: 388¡¢ left: 1283¡¢ right: 1347
+####  center location:(1315.0,357.5)  ####
+
+
+-----------------------------
+
+000018.jpg detect_result£º
+find  10 target(s) 
+defect  score: 0.45118898 
+location: top: 606¡¢ bottom: 649¡¢ left: 430¡¢ right: 471
+####  center location:(450.5,627.5)  ####
+
+defect  score: 0.8714864 
+location: top: 637¡¢ bottom: 676¡¢ left: 1231¡¢ right: 1271
+####  center location:(1251.0,656.5)  ####
+
+breakpoint  score: 0.38637364 
+location: top: 596¡¢ bottom: 654¡¢ left: 421¡¢ right: 482
+####  center location:(451.5,625.0)  ####
+
+breakpoint  score: 0.5592497 
+location: top: 146¡¢ bottom: 208¡¢ left: 162¡¢ right: 226
+####  center location:(194.0,177.0)  ####
+
+breakpoint  score: 0.6082435 
+location: top: 212¡¢ bottom: 270¡¢ left: 164¡¢ right: 224
+####  center location:(194.0,241.0)  ####
+
+breakpoint  score: 0.69183654 
+location: top: 1241¡¢ bottom: 1296¡¢ left: 901¡¢ right: 966
+####  center location:(933.5,1268.5)  ####
+
+breakpoint  score: 0.80365723 
+location: top: 770¡¢ bottom: 828¡¢ left: 420¡¢ right: 486
+####  center location:(453.0,799.0)  ####
+
+breakpoint  score: 0.84356034 
+location: top: 241¡¢ bottom: 298¡¢ left: 250¡¢ right: 314
+####  center location:(282.0,269.5)  ####
+
+breakpoint  score: 0.86137027 
+location: top: 884¡¢ bottom: 945¡¢ left: 249¡¢ right: 313
+####  center location:(281.0,914.5)  ####
+
+breakpoint  score: 0.9396852 
+location: top: 328¡¢ bottom: 388¡¢ left: 1283¡¢ right: 1347
+####  center location:(1315.0,358.0)  ####
+
+
+-----------------------------
+
+000019.jpg detect_result£º
+find  12 target(s) 
+defect  score: 0.3347402 
+location: top: 170¡¢ bottom: 209¡¢ left: 168¡¢ right: 212
+####  center location:(190.0,189.5)  ####
+
+defect  score: 0.5846841 
+location: top: 606¡¢ bottom: 650¡¢ left: 431¡¢ right: 470
+####  center location:(450.5,628.0)  ####
+
+defect  score: 0.8338737 
+location: top: 227¡¢ bottom: 264¡¢ left: 170¡¢ right: 209
+####  center location:(189.5,245.5)  ####
+
+defect  score: 0.9475003 
+location: top: 638¡¢ bottom: 678¡¢ left: 1232¡¢ right: 1270
+####  center location:(1251.0,658.0)  ####
+
+breakpoint  score: 0.461772 
+location: top: 149¡¢ bottom: 207¡¢ left: 160¡¢ right: 224
+####  center location:(192.0,178.0)  ####
+
+breakpoint  score: 0.50021994 
+location: top: 1243¡¢ bottom: 1297¡¢ left: 900¡¢ right: 963
+####  center location:(931.5,1270.0)  ####
+
+breakpoint  score: 0.50848603 
+location: top: 1184¡¢ bottom: 1236¡¢ left: 780¡¢ right: 847
+####  center location:(813.5,1210.0)  ####
+
+breakpoint  score: 0.60258615 
+location: top: 35¡¢ bottom: 91¡¢ left: 162¡¢ right: 227
+####  center location:(194.5,63.0)  ####
+
+breakpoint  score: 0.77216226 
+location: top: 770¡¢ bottom: 827¡¢ left: 419¡¢ right: 486
+####  center location:(452.5,798.5)  ####
+
+breakpoint  score: 0.86382425 
+location: top: 884¡¢ bottom: 945¡¢ left: 248¡¢ right: 313
+####  center location:(280.5,914.5)  ####
+
+breakpoint  score: 0.8707166 
+location: top: 242¡¢ bottom: 299¡¢ left: 249¡¢ right: 313
+####  center location:(281.0,270.5)  ####
+
+breakpoint  score: 0.9381115 
+location: top: 329¡¢ bottom: 389¡¢ left: 1283¡¢ right: 1347
+####  center location:(1315.0,359.0)  ####
+
+
+-----------------------------
+
+000020.jpg detect_result£º
+find  12 target(s) 
+defect  score: 0.3584384 
+location: top: 1253¡¢ bottom: 1292¡¢ left: 909¡¢ right: 952
+####  center location:(930.5,1272.5)  ####
+
+defect  score: 0.819045 
+location: top: 607¡¢ bottom: 650¡¢ left: 431¡¢ right: 468
+####  center location:(449.5,628.5)  ####
+
+defect  score: 0.84086126 
+location: top: 170¡¢ bottom: 209¡¢ left: 169¡¢ right: 209
+####  center location:(189.0,189.5)  ####
+
+defect  score: 0.9263976 
+location: top: 227¡¢ bottom: 266¡¢ left: 169¡¢ right: 208
+####  center location:(188.5,246.5)  ####
+
+defect  score: 0.9647606 
+location: top: 638¡¢ bottom: 678¡¢ left: 1231¡¢ right: 1271
+####  center location:(1251.0,658.0)  ####
+
+breakpoint  score: 0.36372882 
+location: top: 1245¡¢ bottom: 1297¡¢ left: 900¡¢ right: 962
+####  center location:(931.0,1271.0)  ####
+
+breakpoint  score: 0.61353666 
+location: top: 1186¡¢ bottom: 1237¡¢ left: 779¡¢ right: 845
+####  center location:(812.0,1211.5)  ####
+
+breakpoint  score: 0.6985507 
+location: top: 771¡¢ bottom: 826¡¢ left: 420¡¢ right: 485
+####  center location:(452.5,798.5)  ####
+
+breakpoint  score: 0.75765765 
+location: top: 36¡¢ bottom: 92¡¢ left: 162¡¢ right: 225
+####  center location:(193.5,64.0)  ####
+
+breakpoint  score: 0.77477235 
+location: top: 244¡¢ bottom: 298¡¢ left: 248¡¢ right: 313
+####  center location:(280.5,271.0)  ####
+
+breakpoint  score: 0.8663716 
+location: top: 885¡¢ bottom: 945¡¢ left: 247¡¢ right: 312
+####  center location:(279.5,915.0)  ####
+
+breakpoint  score: 0.93322957 
+location: top: 331¡¢ bottom: 387¡¢ left: 1281¡¢ right: 1347
+####  center location:(1314.0,359.0)  ####
+
+
+-----------------------------
+
+000021.jpg detect_result£º
+find  12 target(s) 
+defect  score: 0.51071644 
+location: top: 788¡¢ bottom: 826¡¢ left: 430¡¢ right: 471
+####  center location:(450.5,807.0)  ####
+
+defect  score: 0.72211736 
+location: top: 1254¡¢ bottom: 1293¡¢ left: 908¡¢ right: 949
+####  center location:(928.5,1273.5)  ####
+
+defect  score: 0.7725837 
+location: top: 1195¡¢ bottom: 1232¡¢ left: 789¡¢ right: 832
+####  center location:(810.5,1213.5)  ####
+
+defect  score: 0.7904043 
+location: top: 259¡¢ bottom: 296¡¢ left: 258¡¢ right: 300
+####  center location:(279.0,277.5)  ####
+
+defect  score: 0.9176958 
+location: top: 608¡¢ bottom: 649¡¢ left: 431¡¢ right: 467
+####  center location:(449.0,628.5)  ####
+
+defect  score: 0.94210166 
+location: top: 170¡¢ bottom: 209¡¢ left: 170¡¢ right: 209
+####  center location:(189.5,189.5)  ####
+
+defect  score: 0.94222665 
+location: top: 227¡¢ bottom: 266¡¢ left: 169¡¢ right: 208
+####  center location:(188.5,246.5)  ####
+
+defect  score: 0.9760342 
+location: top: 637¡¢ bottom: 678¡¢ left: 1232¡¢ right: 1271
+####  center location:(1251.5,657.5)  ####
+
+breakpoint  score: 0.49680945 
+location: top: 772¡¢ bottom: 826¡¢ left: 420¡¢ right: 483
+####  center location:(451.5,799.0)  ####
+
+breakpoint  score: 0.73683053 
+location: top: 37¡¢ bottom: 92¡¢ left: 163¡¢ right: 224
+####  center location:(193.5,64.5)  ####
+
+breakpoint  score: 0.7678929 
+location: top: 887¡¢ bottom: 944¡¢ left: 247¡¢ right: 312
+####  center location:(279.5,915.5)  ####
+
+breakpoint  score: 0.8375187 
+location: top: 333¡¢ bottom: 386¡¢ left: 1280¡¢ right: 1347
+####  center location:(1313.5,359.5)  ####
+
+
+-----------------------------
+
+000022.jpg detect_result£º
+find  13 target(s) 
+defect  score: 0.4096228 
+location: top: 50¡¢ bottom: 91¡¢ left: 172¡¢ right: 213
+####  center location:(192.5,70.5)  ####
+
+defect  score: 0.65624785 
+location: top: 903¡¢ bottom: 941¡¢ left: 256¡¢ right: 300
+####  center location:(278.0,922.0)  ####
+
+defect  score: 0.68409497 
+location: top: 343¡¢ bottom: 381¡¢ left: 1292¡¢ right: 1334
+####  center location:(1313.0,362.0)  ####
+
+defect  score: 0.73795205 
+location: top: 1255¡¢ bottom: 1293¡¢ left: 908¡¢ right: 948
+####  center location:(928.0,1274.0)  ####
+
+defect  score: 0.79979837 
+location: top: 788¡¢ bottom: 825¡¢ left: 432¡¢ right: 471
+####  center location:(451.5,806.5)  ####
+
+defect  score: 0.8930737 
+location: top: 258¡¢ bottom: 296¡¢ left: 259¡¢ right: 298
+####  center location:(278.5,277.0)  ####
+
+defect  score: 0.89976805 
+location: top: 1196¡¢ bottom: 1232¡¢ left: 790¡¢ right: 831
+####  center location:(810.5,1214.0)  ####
+
+defect  score: 0.9586966 
+location: top: 226¡¢ bottom: 266¡¢ left: 169¡¢ right: 208
+####  center location:(188.5,246.0)  ####
+
+defect  score: 0.96119213 
+location: top: 608¡¢ bottom: 648¡¢ left: 431¡¢ right: 468
+####  center location:(449.5,628.0)  ####
+
+defect  score: 0.96354204 
+location: top: 169¡¢ bottom: 210¡¢ left: 170¡¢ right: 209
+####  center location:(189.5,189.5)  ####
+
+defect  score: 0.98088765 
+location: top: 636¡¢ bottom: 678¡¢ left: 1232¡¢ right: 1271
+####  center location:(1251.5,657.0)  ####
+
+breakpoint  score: 0.40591645 
+location: top: 889¡¢ bottom: 943¡¢ left: 247¡¢ right: 310
+####  center location:(278.5,916.0)  ####
+
+breakpoint  score: 0.6103104 
+location: top: 39¡¢ bottom: 92¡¢ left: 163¡¢ right: 224
+####  center location:(193.5,65.5)  ####
+
+
+-----------------------------
+
+000023.jpg detect_result£º
+find  11 target(s) 
+defect  score: 0.86781037 
+location: top: 343¡¢ bottom: 382¡¢ left: 1291¡¢ right: 1334
+####  center location:(1312.5,362.5)  ####
+
+defect  score: 0.8781374 
+location: top: 904¡¢ bottom: 941¡¢ left: 258¡¢ right: 299
+####  center location:(278.5,922.5)  ####
+
+defect  score: 0.8804577 
+location: top: 1255¡¢ bottom: 1295¡¢ left: 909¡¢ right: 948
+####  center location:(928.5,1275.0)  ####
+
+defect  score: 0.88209504 
+location: top: 788¡¢ bottom: 825¡¢ left: 432¡¢ right: 473
+####  center location:(452.5,806.5)  ####
+
+defect  score: 0.9007486 
+location: top: 257¡¢ bottom: 297¡¢ left: 258¡¢ right: 299
+####  center location:(278.5,277.0)  ####
+
+defect  score: 0.92360675 
+location: top: 51¡¢ bottom: 90¡¢ left: 174¡¢ right: 212
+####  center location:(193.0,70.5)  ####
+
+defect  score: 0.94771194 
+location: top: 1196¡¢ bottom: 1233¡¢ left: 789¡¢ right: 831
+####  center location:(810.0,1214.5)  ####
+
+defect  score: 0.96849084 
+location: top: 168¡¢ bottom: 210¡¢ left: 171¡¢ right: 210
+####  center location:(190.5,189.0)  ####
+
+defect  score: 0.9715211 
+location: top: 225¡¢ bottom: 267¡¢ left: 169¡¢ right: 209
+####  center location:(189.0,246.0)  ####
+
+defect  score: 0.9735223 
+location: top: 608¡¢ bottom: 649¡¢ left: 431¡¢ right: 471
+####  center location:(451.0,628.5)  ####
+
+defect  score: 0.9836468 
+location: top: 636¡¢ bottom: 678¡¢ left: 1232¡¢ right: 1272
+####  center location:(1252.0,657.0)  ####
+
+
+-----------------------------
+
+000024.jpg detect_result£º
+find  11 target(s) 
+defect  score: 0.8768068 
+location: top: 787¡¢ bottom: 825¡¢ left: 432¡¢ right: 474
+####  center location:(453.0,806.0)  ####
+
+defect  score: 0.88480276 
+location: top: 256¡¢ bottom: 297¡¢ left: 257¡¢ right: 299
+####  center location:(278.0,276.5)  ####
+
+defect  score: 0.91308755 
+location: top: 342¡¢ bottom: 383¡¢ left: 1290¡¢ right: 1335
+####  center location:(1312.5,362.5)  ####
+
+defect  score: 0.92643934 
+location: top: 903¡¢ bottom: 942¡¢ left: 258¡¢ right: 298
+####  center location:(278.0,922.5)  ####
+
+defect  score: 0.93877244 
+location: top: 51¡¢ bottom: 90¡¢ left: 173¡¢ right: 213
+####  center location:(193.0,70.5)  ####
+
+defect  score: 0.94630533 
+location: top: 1255¡¢ bottom: 1297¡¢ left: 909¡¢ right: 948
+####  center location:(928.5,1276.0)  ####
+
+defect  score: 0.96695316 
+location: top: 1195¡¢ bottom: 1234¡¢ left: 789¡¢ right: 832
+####  center location:(810.5,1214.5)  ####
+
+defect  score: 0.97154665 
+location: top: 167¡¢ bottom: 210¡¢ left: 171¡¢ right: 212
+####  center location:(191.5,188.5)  ####
+
+defect  score: 0.97444874 
+location: top: 607¡¢ bottom: 650¡¢ left: 431¡¢ right: 472
+####  center location:(451.5,628.5)  ####
+
+defect  score: 0.97675306 
+location: top: 225¡¢ bottom: 267¡¢ left: 168¡¢ right: 210
+####  center location:(189.0,246.0)  ####
+
+defect  score: 0.9820477 
+location: top: 634¡¢ bottom: 678¡¢ left: 1232¡¢ right: 1272
+####  center location:(1252.0,656.0)  ####
+
+
+-----------------------------
+
+000025.jpg detect_result£º
+find  11 target(s) 
+defect  score: 0.8552815 
+location: top: 256¡¢ bottom: 298¡¢ left: 256¡¢ right: 300
+####  center location:(278.0,277.0)  ####
+
+defect  score: 0.8736021 
+location: top: 786¡¢ bottom: 825¡¢ left: 432¡¢ right: 475
+####  center location:(453.5,805.5)  ####
+
+defect  score: 0.92157495 
+location: top: 341¡¢ bottom: 384¡¢ left: 1290¡¢ right: 1336
+####  center location:(1313.0,362.5)  ####
+
+defect  score: 0.93800956 
+location: top: 51¡¢ bottom: 90¡¢ left: 172¡¢ right: 215
+####  center location:(193.5,70.5)  ####
+
+defect  score: 0.9388108 
+location: top: 903¡¢ bottom: 942¡¢ left: 258¡¢ right: 299
+####  center location:(278.5,922.5)  ####
+
+defect  score: 0.95927536 
+location: top: 1255¡¢ bottom: 1297¡¢ left: 911¡¢ right: 950
+####  center location:(930.5,1276.0)  ####
+
+defect  score: 0.9695082 
+location: top: 165¡¢ bottom: 209¡¢ left: 171¡¢ right: 214
+####  center location:(192.5,187.0)  ####
+
+defect  score: 0.9714528 
+location: top: 1194¡¢ bottom: 1234¡¢ left: 789¡¢ right: 832
+####  center location:(810.5,1214.0)  ####
+
+defect  score: 0.97412103 
+location: top: 607¡¢ bottom: 650¡¢ left: 431¡¢ right: 472
+####  center location:(451.5,628.5)  ####
+
+defect  score: 0.97673917 
+location: top: 633¡¢ bottom: 678¡¢ left: 1233¡¢ right: 1274
+####  center location:(1253.5,655.5)  ####
+
+defect  score: 0.9785901 
+location: top: 224¡¢ bottom: 268¡¢ left: 168¡¢ right: 211
+####  center location:(189.5,246.0)  ####
+
+
+-----------------------------
+
+000026.jpg detect_result£º
+find  11 target(s) 
+defect  score: 0.78408355 
+location: top: 255¡¢ bottom: 298¡¢ left: 255¡¢ right: 301
+####  center location:(278.0,276.5)  ####
+
+defect  score: 0.86273825 
+location: top: 786¡¢ bottom: 826¡¢ left: 432¡¢ right: 476
+####  center location:(454.0,806.0)  ####
+
+defect  score: 0.9211775 
+location: top: 339¡¢ bottom: 384¡¢ left: 1289¡¢ right: 1336
+####  center location:(1312.5,361.5)  ####
+
+defect  score: 0.9277374 
+location: top: 50¡¢ bottom: 90¡¢ left: 171¡¢ right: 217
+####  center location:(194.0,70.0)  ####
+
+defect  score: 0.9374632 
+location: top: 902¡¢ bottom: 943¡¢ left: 258¡¢ right: 299
+####  center location:(278.5,922.5)  ####
+
+defect  score: 0.9634212 
+location: top: 1255¡¢ bottom: 1298¡¢ left: 911¡¢ right: 951
+####  center location:(931.0,1276.5)  ####
+
+defect  score: 0.96463794 
+location: top: 164¡¢ bottom: 209¡¢ left: 171¡¢ right: 215
+####  center location:(193.0,186.5)  ####
+
+defect  score: 0.97293466 
+location: top: 632¡¢ bottom: 678¡¢ left: 1233¡¢ right: 1274
+####  center location:(1253.5,655.0)  ####
+
+defect  score: 0.973164 
+location: top: 606¡¢ bottom: 650¡¢ left: 431¡¢ right: 473
+####  center location:(452.0,628.0)  ####
+
+defect  score: 0.9733103 
+location: top: 1193¡¢ bottom: 1235¡¢ left: 789¡¢ right: 833
+####  center location:(811.0,1214.0)  ####
+
+defect  score: 0.9791963 
+location: top: 224¡¢ bottom: 268¡¢ left: 167¡¢ right: 212
+####  center location:(189.5,246.0)  ####
+
+
+-----------------------------
+
+000027.jpg detect_result£º
+find  11 target(s) 
+defect  score: 0.72469175 
+location: top: 245¡¢ bottom: 301¡¢ left: 246¡¢ right: 310
+####  center location:(278.0,273.0)  ####
+
+defect  score: 0.86072177 
+location: top: 785¡¢ bottom: 826¡¢ left: 432¡¢ right: 476
+####  center location:(454.0,805.5)  ####
+
+defect  score: 0.8955361 
+location: top: 49¡¢ bottom: 90¡¢ left: 169¡¢ right: 218
+####  center location:(193.5,69.5)  ####
+
+defect  score: 0.91586316 
+location: top: 339¡¢ bottom: 384¡¢ left: 1289¡¢ right: 1336
+####  center location:(1312.5,361.5)  ####
+
+defect  score: 0.9306422 
+location: top: 901¡¢ bottom: 943¡¢ left: 257¡¢ right: 300
+####  center location:(278.5,922.0)  ####
+
+defect  score: 0.95520544 
+location: top: 163¡¢ bottom: 209¡¢ left: 170¡¢ right: 216
+####  center location:(193.0,186.0)  ####
+
+defect  score: 0.9694119 
+location: top: 605¡¢ bottom: 650¡¢ left: 430¡¢ right: 474
+####  center location:(452.0,627.5)  ####
+
+defect  score: 0.97091746 
+location: top: 631¡¢ bottom: 678¡¢ left: 1233¡¢ right: 1275
+####  center location:(1254.0,654.5)  ####
+
+defect  score: 0.97200656 
+location: top: 1255¡¢ bottom: 1298¡¢ left: 912¡¢ right: 952
+####  center location:(932.0,1276.5)  ####
+
+defect  score: 0.9734158 
+location: top: 1193¡¢ bottom: 1235¡¢ left: 788¡¢ right: 833
+####  center location:(810.5,1214.0)  ####
+
+defect  score: 0.9792057 
+location: top: 223¡¢ bottom: 269¡¢ left: 167¡¢ right: 212
+####  center location:(189.5,246.0)  ####
+
+
+-----------------------------
+
+000028.jpg detect_result£º
+find  11 target(s) 
+defect  score: 0.8343722 
+location: top: 244¡¢ bottom: 301¡¢ left: 246¡¢ right: 310
+####  center location:(278.0,272.5)  ####
+
+defect  score: 0.84850883 
+location: top: 47¡¢ bottom: 92¡¢ left: 168¡¢ right: 219
+####  center location:(193.5,69.5)  ####
+
+defect  score: 0.8504971 
+location: top: 785¡¢ bottom: 826¡¢ left: 432¡¢ right: 477
+####  center location:(454.5,805.5)  ####
+
+defect  score: 0.9121391 
+location: top: 338¡¢ bottom: 385¡¢ left: 1289¡¢ right: 1337
+####  center location:(1313.0,361.5)  ####
+
+defect  score: 0.91344374 
+location: top: 901¡¢ bottom: 944¡¢ left: 256¡¢ right: 301
+####  center location:(278.5,922.5)  ####
+
+defect  score: 0.93290395 
+location: top: 162¡¢ bottom: 209¡¢ left: 169¡¢ right: 216
+####  center location:(192.5,185.5)  ####
+
+defect  score: 0.9646342 
+location: top: 603¡¢ bottom: 650¡¢ left: 429¡¢ right: 476
+####  center location:(452.5,626.5)  ####
+
+defect  score: 0.96579915 
+location: top: 630¡¢ bottom: 678¡¢ left: 1233¡¢ right: 1276
+####  center location:(1254.5,654.0)  ####
+
+defect  score: 0.97083795 
+location: top: 1192¡¢ bottom: 1235¡¢ left: 788¡¢ right: 834
+####  center location:(811.0,1213.5)  ####
+
+defect  score: 0.97304034 
+location: top: 1254¡¢ bottom: 1298¡¢ left: 912¡¢ right: 953
+####  center location:(932.5,1276.0)  ####
+
+defect  score: 0.9775844 
+location: top: 222¡¢ bottom: 269¡¢ left: 166¡¢ right: 213
+####  center location:(189.5,245.5)  ####
+
+
+-----------------------------
+
+000029.jpg detect_result£º
+find  11 target(s) 
+defect  score: 0.84035367 
+location: top: 777¡¢ bottom: 825¡¢ left: 430¡¢ right: 477
+####  center location:(453.5,801.0)  ####
+
+defect  score: 0.8726944 
+location: top: 244¡¢ bottom: 301¡¢ left: 246¡¢ right: 310
+####  center location:(278.0,272.5)  ####
+
+defect  score: 0.8808704 
+location: top: 900¡¢ bottom: 944¡¢ left: 255¡¢ right: 301
+####  center location:(278.0,922.0)  ####
+
+defect  score: 0.9003939 
+location: top: 338¡¢ bottom: 385¡¢ left: 1289¡¢ right: 1337
+####  center location:(1313.0,361.5)  ####
+
+defect  score: 0.9016052 
+location: top: 156¡¢ bottom: 215¡¢ left: 165¡¢ right: 220
+####  center location:(192.5,185.5)  ####
+
+defect  score: 0.932631 
+location: top: 36¡¢ bottom: 96¡¢ left: 160¡¢ right: 221
+####  center location:(190.5,66.0)  ####
+
+defect  score: 0.95075774 
+location: top: 602¡¢ bottom: 650¡¢ left: 429¡¢ right: 477
+####  center location:(453.0,626.0)  ####
+
+defect  score: 0.9587561 
+location: top: 630¡¢ bottom: 679¡¢ left: 1232¡¢ right: 1276
+####  center location:(1254.0,654.5)  ####
+
+defect  score: 0.9654131 
+location: top: 1192¡¢ bottom: 1235¡¢ left: 787¡¢ right: 834
+####  center location:(810.5,1213.5)  ####
+
+defect  score: 0.9712523 
+location: top: 1253¡¢ bottom: 1299¡¢ left: 912¡¢ right: 954
+####  center location:(933.0,1276.0)  ####
+
+defect  score: 0.97328836 
+location: top: 221¡¢ bottom: 270¡¢ left: 165¡¢ right: 213
+####  center location:(189.0,245.5)  ####
+
+
+-----------------------------
+
+000030.jpg detect_result£º
+find  11 target(s) 
+defect  score: 0.8580951 
+location: top: 893¡¢ bottom: 950¡¢ left: 250¡¢ right: 306
+####  center location:(278.0,921.5)  ####
+
+defect  score: 0.8887668 
+location: top: 243¡¢ bottom: 300¡¢ left: 245¡¢ right: 311
+####  center location:(278.0,271.5)  ####
+
+defect  score: 0.89240617 
+location: top: 771¡¢ bottom: 830¡¢ left: 423¡¢ right: 481
+####  center location:(452.0,800.5)  ####
+
+defect  score: 0.90570146 
+location: top: 330¡¢ bottom: 389¡¢ left: 1284¡¢ right: 1342
+####  center location:(1313.0,359.5)  ####
+
+defect  score: 0.9260479 
+location: top: 156¡¢ bottom: 215¡¢ left: 164¡¢ right: 220
+####  center location:(192.0,185.5)  ####
+
+defect  score: 0.94458324 
+location: top: 630¡¢ bottom: 679¡¢ left: 1231¡¢ right: 1277
+####  center location:(1254.0,654.5)  ####
+
+defect  score: 0.9463036 
+location: top: 594¡¢ bottom: 655¡¢ left: 424¡¢ right: 481
+####  center location:(452.5,624.5)  ####
+
+defect  score: 0.9568053 
+location: top: 1191¡¢ bottom: 1236¡¢ left: 785¡¢ right: 834
+####  center location:(809.5,1213.5)  ####
+
+defect  score: 0.96087486 
+location: top: 220¡¢ bottom: 270¡¢ left: 164¡¢ right: 214
+####  center location:(189.0,245.0)  ####
+
+defect  score: 0.9617179 
+location: top: 35¡¢ bottom: 95¡¢ left: 160¡¢ right: 221
+####  center location:(190.5,65.0)  ####
+
+defect  score: 0.96344525 
+location: top: 1252¡¢ bottom: 1299¡¢ left: 912¡¢ right: 955
+####  center location:(933.5,1275.5)  ####
+
+
+-----------------------------
+
+000031.jpg detect_result£º
+find  11 target(s) 
+defect  score: 0.8911417 
+location: top: 243¡¢ bottom: 300¡¢ left: 245¡¢ right: 312
+####  center location:(278.5,271.5)  ####
+
+defect  score: 0.90096813 
+location: top: 892¡¢ bottom: 951¡¢ left: 249¡¢ right: 306
+####  center location:(277.5,921.5)  ####
+
+defect  score: 0.91647214 
+location: top: 330¡¢ bottom: 388¡¢ left: 1283¡¢ right: 1343
+####  center location:(1313.0,359.0)  ####
+
+defect  score: 0.9178909 
+location: top: 629¡¢ bottom: 679¡¢ left: 1230¡¢ right: 1277
+####  center location:(1253.5,654.0)  ####
+
+defect  score: 0.9313387 
+location: top: 155¡¢ bottom: 216¡¢ left: 163¡¢ right: 221
+####  center location:(192.0,185.5)  ####
+
+defect  score: 0.9319143 
+location: top: 770¡¢ bottom: 830¡¢ left: 423¡¢ right: 481
+####  center location:(452.0,800.0)  ####
+
+defect  score: 0.94346076 
+location: top: 1190¡¢ bottom: 1236¡¢ left: 785¡¢ right: 834
+####  center location:(809.5,1213.0)  ####
+
+defect  score: 0.9466601 
+location: top: 216¡¢ bottom: 271¡¢ left: 161¡¢ right: 219
+####  center location:(190.0,243.5)  ####
+
+defect  score: 0.95263046 
+location: top: 1251¡¢ bottom: 1298¡¢ left: 911¡¢ right: 956
+####  center location:(933.5,1274.5)  ####
+
+defect  score: 0.9668155 
+location: top: 593¡¢ bottom: 655¡¢ left: 423¡¢ right: 481
+####  center location:(452.0,624.0)  ####
+
+defect  score: 0.9678 
+location: top: 35¡¢ bottom: 95¡¢ left: 160¡¢ right: 221
+####  center location:(190.5,65.0)  ####
+
+
+-----------------------------
+
+000032.jpg detect_result£º
+find  11 target(s) 
+defect  score: 0.8881558 
+location: top: 624¡¢ bottom: 682¡¢ left: 1224¡¢ right: 1282
+####  center location:(1253.0,653.0)  ####
+
+defect  score: 0.8902681 
+location: top: 242¡¢ bottom: 300¡¢ left: 245¡¢ right: 311
+####  center location:(278.0,271.0)  ####
+
+defect  score: 0.9087362 
+location: top: 892¡¢ bottom: 951¡¢ left: 248¡¢ right: 307
+####  center location:(277.5,921.5)  ####
+
+defect  score: 0.9170192 
+location: top: 156¡¢ bottom: 216¡¢ left: 162¡¢ right: 221
+####  center location:(191.5,186.0)  ####
+
+defect  score: 0.91741806 
+location: top: 330¡¢ bottom: 388¡¢ left: 1283¡¢ right: 1343
+####  center location:(1313.0,359.0)  ####
+
+defect  score: 0.9208715 
+location: top: 1250¡¢ bottom: 1298¡¢ left: 910¡¢ right: 957
+####  center location:(933.5,1274.0)  ####
+
+defect  score: 0.93360925 
+location: top: 216¡¢ bottom: 270¡¢ left: 159¡¢ right: 221
+####  center location:(190.0,243.0)  ####
+
+defect  score: 0.9371576 
+location: top: 1182¡¢ bottom: 1240¡¢ left: 780¡¢ right: 839
+####  center location:(809.5,1211.0)  ####
+
+defect  score: 0.95127714 
+location: top: 769¡¢ bottom: 831¡¢ left: 423¡¢ right: 481
+####  center location:(452.0,800.0)  ####
+
+defect  score: 0.96938264 
+location: top: 35¡¢ bottom: 94¡¢ left: 159¡¢ right: 221
+####  center location:(190.0,64.5)  ####
+
+defect  score: 0.97782135 
+location: top: 592¡¢ bottom: 655¡¢ left: 422¡¢ right: 482
+####  center location:(452.0,623.5)  ####
+
+
+-----------------------------
+
+000033.jpg detect_result£º
+find  11 target(s) 
+defect  score: 0.76484096 
+location: top: 241¡¢ bottom: 299¡¢ left: 245¡¢ right: 311
+####  center location:(278.0,270.0)  ####
+
+defect  score: 0.8130421 
+location: top: 217¡¢ bottom: 270¡¢ left: 158¡¢ right: 222
+####  center location:(190.0,243.5)  ####
+
+defect  score: 0.866424 
+location: top: 1250¡¢ bottom: 1298¡¢ left: 909¡¢ right: 958
+####  center location:(933.5,1274.0)  ####
+
+defect  score: 0.86967766 
+location: top: 157¡¢ bottom: 216¡¢ left: 161¡¢ right: 222
+####  center location:(191.5,186.5)  ####
+
+defect  score: 0.8970546 
+location: top: 624¡¢ bottom: 682¡¢ left: 1222¡¢ right: 1282
+####  center location:(1252.0,653.0)  ####
+
+defect  score: 0.90062094 
+location: top: 890¡¢ bottom: 953¡¢ left: 243¡¢ right: 301
+####  center location:(272.0,921.5)  ####
+
+defect  score: 0.9194684 
+location: top: 329¡¢ bottom: 388¡¢ left: 1283¡¢ right: 1343
+####  center location:(1313.0,358.5)  ####
+
+defect  score: 0.93373215 
+location: top: 1182¡¢ bottom: 1240¡¢ left: 780¡¢ right: 839
+####  center location:(809.5,1211.0)  ####
+
+defect  score: 0.95473003 
+location: top: 769¡¢ bottom: 830¡¢ left: 422¡¢ right: 481
+####  center location:(451.5,799.5)  ####
+
+defect  score: 0.96287507 
+location: top: 35¡¢ bottom: 93¡¢ left: 158¡¢ right: 222
+####  center location:(190.0,64.0)  ####
+
+defect  score: 0.9782925 
+location: top: 592¡¢ bottom: 655¡¢ left: 421¡¢ right: 482
+####  center location:(451.5,623.5)  ####
+
+
+-----------------------------
+
+000034.jpg detect_result£º
+find  11 target(s) 
+defect  score: 0.3540833 
+location: top: 218¡¢ bottom: 270¡¢ left: 157¡¢ right: 223
+####  center location:(190.0,244.0)  ####
+
+defect  score: 0.54778683 
+location: top: 254¡¢ bottom: 306¡¢ left: 249¡¢ right: 312
+####  center location:(280.5,280.0)  ####
+
+defect  score: 0.75846624 
+location: top: 159¡¢ bottom: 216¡¢ left: 160¡¢ right: 223
+####  center location:(191.5,187.5)  ####
+
+defect  score: 0.8366385 
+location: top: 1246¡¢ bottom: 1302¡¢ left: 902¡¢ right: 963
+####  center location:(932.5,1274.0)  ####
+
+defect  score: 0.8763077 
+location: top: 890¡¢ bottom: 953¡¢ left: 242¡¢ right: 301
+####  center location:(271.5,921.5)  ####
+
+defect  score: 0.8860262 
+location: top: 329¡¢ bottom: 388¡¢ left: 1283¡¢ right: 1343
+####  center location:(1313.0,358.5)  ####
+
+defect  score: 0.88801455 
+location: top: 625¡¢ bottom: 683¡¢ left: 1221¡¢ right: 1282
+####  center location:(1251.5,654.0)  ####
+
+defect  score: 0.9060374 
+location: top: 1181¡¢ bottom: 1240¡¢ left: 780¡¢ right: 839
+####  center location:(809.5,1210.5)  ####
+
+defect  score: 0.9333521 
+location: top: 35¡¢ bottom: 92¡¢ left: 158¡¢ right: 221
+####  center location:(189.5,63.5)  ####
+
+defect  score: 0.9532908 
+location: top: 769¡¢ bottom: 830¡¢ left: 420¡¢ right: 480
+####  center location:(450.0,799.5)  ####
+
+defect  score: 0.9699368 
+location: top: 593¡¢ bottom: 654¡¢ left: 421¡¢ right: 482
+####  center location:(451.5,623.5)  ####
+
+
+-----------------------------
+
+000035.jpg detect_result£º
+find  10 target(s) 
+defect  score: 0.43051696 
+location: top: 162¡¢ bottom: 215¡¢ left: 159¡¢ right: 225
+####  center location:(192.0,188.5)  ####
+
+defect  score: 0.51565325 
+location: top: 268¡¢ bottom: 307¡¢ left: 260¡¢ right: 306
+####  center location:(283.0,287.5)  ####
+
+defect  score: 0.6606321 
+location: top: 1247¡¢ bottom: 1302¡¢ left: 901¡¢ right: 963
+####  center location:(932.0,1274.5)  ####
+
+defect  score: 0.6655029 
+location: top: 330¡¢ bottom: 389¡¢ left: 1275¡¢ right: 1337
+####  center location:(1306.0,359.5)  ####
+
+defect  score: 0.7093932 
+location: top: 35¡¢ bottom: 89¡¢ left: 157¡¢ right: 222
+####  center location:(189.5,62.0)  ####
+
+defect  score: 0.8069774 
+location: top: 893¡¢ bottom: 952¡¢ left: 241¡¢ right: 302
+####  center location:(271.5,922.5)  ####
+
+defect  score: 0.8085443 
+location: top: 1180¡¢ bottom: 1241¡¢ left: 781¡¢ right: 839
+####  center location:(810.0,1210.5)  ####
+
+defect  score: 0.8118252 
+location: top: 625¡¢ bottom: 683¡¢ left: 1221¡¢ right: 1281
+####  center location:(1251.0,654.0)  ####
+
+defect  score: 0.88304585 
+location: top: 768¡¢ bottom: 828¡¢ left: 418¡¢ right: 479
+####  center location:(448.5,798.0)  ####
+
+defect  score: 0.9149188 
+location: top: 596¡¢ bottom: 654¡¢ left: 420¡¢ right: 482
+####  center location:(451.0,625.0)  ####
+
+
+-----------------------------
+
+000036.jpg detect_result£º
+find  6 target(s) 
+defect  score: 0.34270853 
+location: top: 251¡¢ bottom: 284¡¢ left: 174¡¢ right: 217
+####  center location:(195.5,267.5)  ####
+
+defect  score: 0.39695445 
+location: top: 628¡¢ bottom: 684¡¢ left: 1220¡¢ right: 1281
+####  center location:(1250.5,656.0)  ####
+
+defect  score: 0.41052768 
+location: top: 356¡¢ bottom: 398¡¢ left: 1294¡¢ right: 1338
+####  center location:(1316.0,377.0)  ####
+
+defect  score: 0.41350302 
+location: top: 607¡¢ bottom: 651¡¢ left: 424¡¢ right: 476
+####  center location:(450.0,629.0)  ####
+
+defect  score: 0.52419674 
+location: top: 766¡¢ bottom: 825¡¢ left: 417¡¢ right: 477
+####  center location:(447.0,795.5)  ####
+
+defect  score: 0.54591924 
+location: top: 897¡¢ bottom: 951¡¢ left: 239¡¢ right: 304
+####  center location:(271.5,924.0)  ####
+
+
+-----------------------------
+
+000037.jpg detect_result£º
+find  2 target(s) 
+defect  score: 0.44724277 
+location: top: 194¡¢ bottom: 230¡¢ left: 169¡¢ right: 216
+####  center location:(192.5,212.0)  ####
+
+defect  score: 0.4763061 
+location: top: 360¡¢ bottom: 402¡¢ left: 1294¡¢ right: 1337
+####  center location:(1315.5,381.0)  ####
+
+
+-----------------------------
+
+000038.jpg detect_result£º
+find  5 target(s) 
+breakpoint  score: 0.43605098 
+location: top: 949¡¢ bottom: 1008¡¢ left: 924¡¢ right: 987
+####  center location:(955.5,978.5)  ####
+
+breakpoint  score: 0.61393535 
+location: top: 188¡¢ bottom: 239¡¢ left: 160¡¢ right: 225
+####  center location:(192.5,213.5)  ####
+
+breakpoint  score: 0.6468262 
+location: top: 185¡¢ bottom: 239¡¢ left: 339¡¢ right: 405
+####  center location:(372.0,212.0)  ####
+
+breakpoint  score: 0.66863364 
+location: top: 250¡¢ bottom: 306¡¢ left: 156¡¢ right: 222
+####  center location:(189.0,278.0)  ####
+
+breakpoint  score: 0.72611153 
+location: top: 1103¡¢ bottom: 1156¡¢ left: 246¡¢ right: 312
+####  center location:(279.0,1129.5)  ####
+
+
+-----------------------------
+
+000039.jpg detect_result£º
+find  7 target(s) 
+breakpoint  score: 0.5267651 
+location: top: 1361¡¢ bottom: 1420¡¢ left: 50¡¢ right: 112
+####  center location:(81.0,1390.5)  ####
+
+breakpoint  score: 0.73062396 
+location: top: 127¡¢ bottom: 181¡¢ left: 163¡¢ right: 226
+####  center location:(194.5,154.0)  ####
+
+breakpoint  score: 0.7818476 
+location: top: 249¡¢ bottom: 306¡¢ left: 157¡¢ right: 220
+####  center location:(188.5,277.5)  ####
+
+breakpoint  score: 0.81113607 
+location: top: 185¡¢ bottom: 238¡¢ left: 339¡¢ right: 405
+####  center location:(372.0,211.5)  ####
+
+breakpoint  score: 0.83196497 
+location: top: 1102¡¢ bottom: 1156¡¢ left: 246¡¢ right: 312
+####  center location:(279.0,1129.0)  ####
+
+breakpoint  score: 0.8695653 
+location: top: 948¡¢ bottom: 1007¡¢ left: 924¡¢ right: 987
+####  center location:(955.5,977.5)  ####
+
+breakpoint  score: 0.89965063 
+location: top: 187¡¢ bottom: 241¡¢ left: 159¡¢ right: 224
+####  center location:(191.5,214.0)  ####
+
+
+-----------------------------
+
+000040.jpg detect_result£º
+find  7 target(s) 
+breakpoint  score: 0.79074335 
+location: top: 1362¡¢ bottom: 1420¡¢ left: 50¡¢ right: 111
+####  center location:(80.5,1391.0)  ####
+
+breakpoint  score: 0.7957059 
+location: top: 249¡¢ bottom: 306¡¢ left: 157¡¢ right: 220
+####  center location:(188.5,277.5)  ####
+
+breakpoint  score: 0.83623946 
+location: top: 185¡¢ bottom: 238¡¢ left: 339¡¢ right: 404
+####  center location:(371.5,211.5)  ####
+
+breakpoint  score: 0.8403447 
+location: top: 127¡¢ bottom: 182¡¢ left: 163¡¢ right: 225
+####  center location:(194.0,154.5)  ####
+
+breakpoint  score: 0.8518582 
+location: top: 1101¡¢ bottom: 1156¡¢ left: 246¡¢ right: 312
+####  center location:(279.0,1128.5)  ####
+
+breakpoint  score: 0.91291285 
+location: top: 948¡¢ bottom: 1007¡¢ left: 925¡¢ right: 987
+####  center location:(956.0,977.5)  ####
+
+breakpoint  score: 0.9441629 
+location: top: 187¡¢ bottom: 242¡¢ left: 159¡¢ right: 224
+####  center location:(191.5,214.5)  ####
+
+
+-----------------------------
+
+000041.jpg detect_result£º
+find  7 target(s) 
+breakpoint  score: 0.7864379 
+location: top: 249¡¢ bottom: 306¡¢ left: 157¡¢ right: 220
+####  center location:(188.5,277.5)  ####
+
+breakpoint  score: 0.8564053 
+location: top: 185¡¢ bottom: 238¡¢ left: 338¡¢ right: 404
+####  center location:(371.0,211.5)  ####
+
+breakpoint  score: 0.857457 
+location: top: 1362¡¢ bottom: 1421¡¢ left: 50¡¢ right: 109
+####  center location:(79.5,1391.5)  ####
+
+breakpoint  score: 0.8650404 
+location: top: 1101¡¢ bottom: 1156¡¢ left: 246¡¢ right: 312
+####  center location:(279.0,1128.5)  ####
+
+breakpoint  score: 0.8847041 
+location: top: 128¡¢ bottom: 183¡¢ left: 162¡¢ right: 223
+####  center location:(192.5,155.5)  ####
+
+breakpoint  score: 0.9349796 
+location: top: 949¡¢ bottom: 1007¡¢ left: 925¡¢ right: 987
+####  center location:(956.0,978.0)  ####
+
+breakpoint  score: 0.9630295 
+location: top: 185¡¢ bottom: 241¡¢ left: 160¡¢ right: 223
+####  center location:(191.5,213.0)  ####
+
+
+-----------------------------
+
+000042.jpg detect_result£º
+find  7 target(s) 
+breakpoint  score: 0.8201558 
+location: top: 244¡¢ bottom: 301¡¢ left: 162¡¢ right: 221
+####  center location:(191.5,272.5)  ####
+
+breakpoint  score: 0.86037743 
+location: top: 185¡¢ bottom: 239¡¢ left: 339¡¢ right: 404
+####  center location:(371.5,212.0)  ####
+
+breakpoint  score: 0.88817036 
+location: top: 1362¡¢ bottom: 1422¡¢ left: 49¡¢ right: 108
+####  center location:(78.5,1392.0)  ####
+
+breakpoint  score: 0.89201915 
+location: top: 1094¡¢ bottom: 1153¡¢ left: 250¡¢ right: 312
+####  center location:(281.0,1123.5)  ####
+
+breakpoint  score: 0.9158636 
+location: top: 128¡¢ bottom: 183¡¢ left: 162¡¢ right: 223
+####  center location:(192.5,155.5)  ####
+
+breakpoint  score: 0.9439633 
+location: top: 949¡¢ bottom: 1006¡¢ left: 926¡¢ right: 987
+####  center location:(956.5,977.5)  ####
+
+breakpoint  score: 0.96530086 
+location: top: 184¡¢ bottom: 241¡¢ left: 160¡¢ right: 223
+####  center location:(191.5,212.5)  ####
+
+
+-----------------------------
+
+000043.jpg detect_result£º
+find  7 target(s) 
+breakpoint  score: 0.8674906 
+location: top: 185¡¢ bottom: 238¡¢ left: 338¡¢ right: 404
+####  center location:(371.0,211.5)  ####
+
+breakpoint  score: 0.88098717 
+location: top: 244¡¢ bottom: 301¡¢ left: 162¡¢ right: 222
+####  center location:(192.0,272.5)  ####
+
+breakpoint  score: 0.88909996 
+location: top: 1093¡¢ bottom: 1153¡¢ left: 251¡¢ right: 312
+####  center location:(281.5,1123.0)  ####
+
+breakpoint  score: 0.91534084 
+location: top: 1362¡¢ bottom: 1422¡¢ left: 49¡¢ right: 108
+####  center location:(78.5,1392.0)  ####
+
+breakpoint  score: 0.94007105 
+location: top: 127¡¢ bottom: 182¡¢ left: 162¡¢ right: 223
+####  center location:(192.5,154.5)  ####
+
+breakpoint  score: 0.94753766 
+location: top: 949¡¢ bottom: 1006¡¢ left: 926¡¢ right: 987
+####  center location:(956.5,977.5)  ####
+
+breakpoint  score: 0.96235484 
+location: top: 183¡¢ bottom: 241¡¢ left: 161¡¢ right: 223
+####  center location:(192.0,212.0)  ####
+
+
+-----------------------------
+
+000044.jpg detect_result£º
+find  7 target(s) 
+breakpoint  score: 0.8937566 
+location: top: 184¡¢ bottom: 238¡¢ left: 338¡¢ right: 404
+####  center location:(371.0,211.0)  ####
+
+breakpoint  score: 0.9089581 
+location: top: 243¡¢ bottom: 301¡¢ left: 162¡¢ right: 222
+####  center location:(192.0,272.0)  ####
+
+breakpoint  score: 0.91976833 
+location: top: 1362¡¢ bottom: 1423¡¢ left: 49¡¢ right: 108
+####  center location:(78.5,1392.5)  ####
+
+breakpoint  score: 0.9228847 
+location: top: 1093¡¢ bottom: 1153¡¢ left: 252¡¢ right: 313
+####  center location:(282.5,1123.0)  ####
+
+breakpoint  score: 0.9490546 
+location: top: 949¡¢ bottom: 1006¡¢ left: 927¡¢ right: 988
+####  center location:(957.5,977.5)  ####
+
+breakpoint  score: 0.9542844 
+location: top: 181¡¢ bottom: 241¡¢ left: 162¡¢ right: 224
+####  center location:(193.0,211.0)  ####
+
+breakpoint  score: 0.95620483 
+location: top: 124¡¢ bottom: 182¡¢ left: 163¡¢ right: 224
+####  center location:(193.5,153.0)  ####
+
+
+-----------------------------
+
+000045.jpg detect_result£º
+find  7 target(s) 
+breakpoint  score: 0.90129316 
+location: top: 184¡¢ bottom: 238¡¢ left: 339¡¢ right: 405
+####  center location:(372.0,211.0)  ####
+
+breakpoint  score: 0.9155326 
+location: top: 1363¡¢ bottom: 1423¡¢ left: 49¡¢ right: 108
+####  center location:(78.5,1393.0)  ####
+
+breakpoint  score: 0.92466915 
+location: top: 180¡¢ bottom: 241¡¢ left: 163¡¢ right: 225
+####  center location:(194.0,210.5)  ####
+
+breakpoint  score: 0.92712903 
+location: top: 241¡¢ bottom: 301¡¢ left: 163¡¢ right: 224
+####  center location:(193.5,271.0)  ####
+
+breakpoint  score: 0.9388415 
+location: top: 1093¡¢ bottom: 1152¡¢ left: 252¡¢ right: 314
+####  center location:(283.0,1122.5)  ####
+
+breakpoint  score: 0.9474545 
+location: top: 948¡¢ bottom: 1005¡¢ left: 927¡¢ right: 988
+####  center location:(957.5,976.5)  ####
+
+breakpoint  score: 0.95602155 
+location: top: 123¡¢ bottom: 181¡¢ left: 164¡¢ right: 226
+####  center location:(195.0,152.0)  ####
+
+
+-----------------------------
+
+000046.jpg detect_result£º
+find  7 target(s) 
+breakpoint  score: 0.88563967 
+location: top: 184¡¢ bottom: 238¡¢ left: 339¡¢ right: 407
+####  center location:(373.0,211.0)  ####
+
+breakpoint  score: 0.899607 
+location: top: 180¡¢ bottom: 241¡¢ left: 164¡¢ right: 227
+####  center location:(195.5,210.5)  ####
+
+breakpoint  score: 0.91103023 
+location: top: 1362¡¢ bottom: 1423¡¢ left: 50¡¢ right: 109
+####  center location:(79.5,1392.5)  ####
+
+breakpoint  score: 0.9196503 
+location: top: 1092¡¢ bottom: 1152¡¢ left: 252¡¢ right: 314
+####  center location:(283.0,1122.0)  ####
+
+breakpoint  score: 0.9213573 
+location: top: 241¡¢ bottom: 301¡¢ left: 163¡¢ right: 225
+####  center location:(194.0,271.0)  ####
+
+breakpoint  score: 0.9479003 
+location: top: 948¡¢ bottom: 1004¡¢ left: 927¡¢ right: 989
+####  center location:(958.0,976.0)  ####
+
+breakpoint  score: 0.95284045 
+location: top: 122¡¢ bottom: 181¡¢ left: 163¡¢ right: 226
+####  center location:(194.5,151.5)  ####
+
+
+-----------------------------
+
+000047.jpg detect_result£º
+find  7 target(s) 
+breakpoint  score: 0.7167851 
+location: top: 187¡¢ bottom: 239¡¢ left: 338¡¢ right: 408
+####  center location:(373.0,213.0)  ####
+
+breakpoint  score: 0.84777904 
+location: top: 180¡¢ bottom: 241¡¢ left: 163¡¢ right: 228
+####  center location:(195.5,210.5)  ####
+
+breakpoint  score: 0.88386273 
+location: top: 1093¡¢ bottom: 1151¡¢ left: 251¡¢ right: 314
+####  center location:(282.5,1122.0)  ####
+
+breakpoint  score: 0.91076285 
+location: top: 241¡¢ bottom: 301¡¢ left: 163¡¢ right: 225
+####  center location:(194.0,271.0)  ####
+
+breakpoint  score: 0.93112916 
+location: top: 122¡¢ bottom: 181¡¢ left: 163¡¢ right: 227
+####  center location:(195.0,151.5)  ####
+
+breakpoint  score: 0.9405676 
+location: top: 1362¡¢ bottom: 1423¡¢ left: 50¡¢ right: 110
+####  center location:(80.0,1392.5)  ####
+
+breakpoint  score: 0.94183457 
+location: top: 947¡¢ bottom: 1004¡¢ left: 927¡¢ right: 990
+####  center location:(958.5,975.5)  ####
+
+
+-----------------------------
+
+000048.jpg detect_result£º
+find  7 target(s) 
+breakpoint  score: 0.4330554 
+location: top: 190¡¢ bottom: 239¡¢ left: 337¡¢ right: 410
+####  center location:(373.5,214.5)  ####
+
+breakpoint  score: 0.7612045 
+location: top: 182¡¢ bottom: 241¡¢ left: 163¡¢ right: 229
+####  center location:(196.0,211.5)  ####
+
+breakpoint  score: 0.8330982 
+location: top: 1092¡¢ bottom: 1151¡¢ left: 251¡¢ right: 315
+####  center location:(283.0,1121.5)  ####
+
+breakpoint  score: 0.8950244 
+location: top: 241¡¢ bottom: 300¡¢ left: 163¡¢ right: 226
+####  center location:(194.5,270.5)  ####
+
+breakpoint  score: 0.9089354 
+location: top: 122¡¢ bottom: 182¡¢ left: 162¡¢ right: 227
+####  center location:(194.5,152.0)  ####
+
+breakpoint  score: 0.9260434 
+location: top: 946¡¢ bottom: 1002¡¢ left: 927¡¢ right: 991
+####  center location:(959.0,974.0)  ####
+
+breakpoint  score: 0.93898064 
+location: top: 1360¡¢ bottom: 1421¡¢ left: 51¡¢ right: 112
+####  center location:(81.5,1390.5)  ####
+
+
+-----------------------------
+
+000049.jpg detect_result£º
+find  6 target(s) 
+breakpoint  score: 0.59730935 
+location: top: 183¡¢ bottom: 242¡¢ left: 163¡¢ right: 230
+####  center location:(196.5,212.5)  ####
+
+breakpoint  score: 0.793045 
+location: top: 1092¡¢ bottom: 1150¡¢ left: 252¡¢ right: 315
+####  center location:(283.5,1121.0)  ####
+
+breakpoint  score: 0.8553577 
+location: top: 946¡¢ bottom: 1001¡¢ left: 926¡¢ right: 992
+####  center location:(959.0,973.5)  ####
+
+breakpoint  score: 0.8676115 
+location: top: 240¡¢ bottom: 300¡¢ left: 164¡¢ right: 226
+####  center location:(195.0,270.0)  ####
+
+breakpoint  score: 0.8922962 
+location: top: 122¡¢ bottom: 182¡¢ left: 162¡¢ right: 227
+####  center location:(194.5,152.0)  ####
+
+breakpoint  score: 0.92532617 
+location: top: 1360¡¢ bottom: 1420¡¢ left: 50¡¢ right: 113
+####  center location:(81.5,1390.0)  ####
+
+
+-----------------------------
+
+000050.jpg detect_result£º
+find  6 target(s) 
+breakpoint  score: 0.45305687 
+location: top: 185¡¢ bottom: 242¡¢ left: 162¡¢ right: 230
+####  center location:(196.0,213.5)  ####
+
+breakpoint  score: 0.58569413 
+location: top: 948¡¢ bottom: 1001¡¢ left: 925¡¢ right: 991
+####  center location:(958.0,974.5)  ####
+
+breakpoint  score: 0.7193699 
+location: top: 1092¡¢ bottom: 1149¡¢ left: 251¡¢ right: 316
+####  center location:(283.5,1120.5)  ####
+
+breakpoint  score: 0.8470662 
+location: top: 239¡¢ bottom: 300¡¢ left: 163¡¢ right: 226
+####  center location:(194.5,269.5)  ####
+
+breakpoint  score: 0.8771884 
+location: top: 1360¡¢ bottom: 1419¡¢ left: 51¡¢ right: 114
+####  center location:(82.5,1389.5)  ####
+
+breakpoint  score: 0.8887092 
+location: top: 122¡¢ bottom: 183¡¢ left: 162¡¢ right: 227
+####  center location:(194.5,152.5)  ####
+
+
+-----------------------------
+
+000051.jpg detect_result£º
+find  6 target(s) 
+defect  score: 0.48501652 
+location: top: 198¡¢ bottom: 238¡¢ left: 342¡¢ right: 382
+####  center location:(362.0,218.0)  ####
+
+breakpoint  score: 0.4393427 
+location: top: 188¡¢ bottom: 242¡¢ left: 160¡¢ right: 228
+####  center location:(194.0,215.0)  ####
+
+breakpoint  score: 0.71871275 
+location: top: 1093¡¢ bottom: 1149¡¢ left: 251¡¢ right: 315
+####  center location:(283.0,1121.0)  ####
+
+breakpoint  score: 0.77032685 
+location: top: 1360¡¢ bottom: 1419¡¢ left: 50¡¢ right: 114
+####  center location:(82.0,1389.5)  ####
+
+breakpoint  score: 0.8387838 
+location: top: 240¡¢ bottom: 299¡¢ left: 162¡¢ right: 226
+####  center location:(194.0,269.5)  ####
+
+breakpoint  score: 0.91135377 
+location: top: 122¡¢ bottom: 183¡¢ left: 161¡¢ right: 225
+####  center location:(193.0,152.5)  ####
+
+
+-----------------------------
+
+000052.jpg detect_result£º
+find  9 target(s) 
+defect  score: 0.35341004 
+location: top: 1110¡¢ bottom: 1148¡¢ left: 256¡¢ right: 303
+####  center location:(279.5,1129.0)  ####
+
+defect  score: 0.3621079 
+location: top: 199¡¢ bottom: 233¡¢ left: 167¡¢ right: 214
+####  center location:(190.5,216.0)  ####
+
+defect  score: 0.5999956 
+location: top: 198¡¢ bottom: 237¡¢ left: 342¡¢ right: 383
+####  center location:(362.5,217.5)  ####
+
+defect  score: 0.8648605 
+location: top: 261¡¢ bottom: 296¡¢ left: 166¡¢ right: 210
+####  center location:(188.0,278.5)  ####
+
+breakpoint  score: 0.3306147 
+location: top: 190¡¢ bottom: 242¡¢ left: 158¡¢ right: 224
+####  center location:(191.0,216.0)  ####
+
+breakpoint  score: 0.35670426 
+location: top: 244¡¢ bottom: 298¡¢ left: 159¡¢ right: 223
+####  center location:(191.0,271.0)  ####
+
+breakpoint  score: 0.54342896 
+location: top: 1362¡¢ bottom: 1420¡¢ left: 50¡¢ right: 113
+####  center location:(81.5,1391.0)  ####
+
+breakpoint  score: 0.7103202 
+location: top: 1095¡¢ bottom: 1149¡¢ left: 249¡¢ right: 314
+####  center location:(281.5,1122.0)  ####
+
+breakpoint  score: 0.9225616 
+location: top: 123¡¢ bottom: 181¡¢ left: 160¡¢ right: 224
+####  center location:(192.0,152.0)  ####
+
+
+-----------------------------
+
+000053.jpg detect_result£º
+find  9 target(s) 
+defect  score: 0.36417612 
+location: top: 190¡¢ bottom: 243¡¢ left: 159¡¢ right: 221
+####  center location:(190.0,216.5)  ####
+
+defect  score: 0.65829563 
+location: top: 198¡¢ bottom: 237¡¢ left: 342¡¢ right: 383
+####  center location:(362.5,217.5)  ####
+
+defect  score: 0.7814371 
+location: top: 1110¡¢ bottom: 1148¡¢ left: 257¡¢ right: 301
+####  center location:(279.0,1129.0)  ####
+
+defect  score: 0.8168731 
+location: top: 200¡¢ bottom: 235¡¢ left: 169¡¢ right: 210
+####  center location:(189.5,217.5)  ####
+
+defect  score: 0.9542256 
+location: top: 260¡¢ bottom: 297¡¢ left: 168¡¢ right: 209
+####  center location:(188.5,278.5)  ####
+
+breakpoint  score: 0.31205058 
+location: top: 950¡¢ bottom: 1003¡¢ left: 925¡¢ right: 989
+####  center location:(957.0,976.5)  ####
+
+breakpoint  score: 0.5182667 
+location: top: 1096¡¢ bottom: 1149¡¢ left: 248¡¢ right: 312
+####  center location:(280.0,1122.5)  ####
+
+breakpoint  score: 0.6751348 
+location: top: 1364¡¢ bottom: 1421¡¢ left: 49¡¢ right: 113
+####  center location:(81.0,1392.5)  ####
+
+breakpoint  score: 0.91122174 
+location: top: 124¡¢ bottom: 180¡¢ left: 159¡¢ right: 224
+####  center location:(191.5,152.0)  ####
+
+
+-----------------------------
+
+000054.jpg detect_result£º
+find  8 target(s) 
+defect  score: 0.4500271 
+location: top: 961¡¢ bottom: 999¡¢ left: 935¡¢ right: 980
+####  center location:(957.5,980.0)  ####
+
+defect  score: 0.6853158 
+location: top: 198¡¢ bottom: 237¡¢ left: 342¡¢ right: 384
+####  center location:(363.0,217.5)  ####
+
+defect  score: 0.8787348 
+location: top: 200¡¢ bottom: 236¡¢ left: 170¡¢ right: 209
+####  center location:(189.5,218.0)  ####
+
+defect  score: 0.9404793 
+location: top: 1110¡¢ bottom: 1148¡¢ left: 259¡¢ right: 300
+####  center location:(279.5,1129.0)  ####
+
+defect  score: 0.9635913 
+location: top: 260¡¢ bottom: 297¡¢ left: 169¡¢ right: 210
+####  center location:(189.5,278.5)  ####
+
+breakpoint  score: 0.42463595 
+location: top: 951¡¢ bottom: 1004¡¢ left: 927¡¢ right: 988
+####  center location:(957.5,977.5)  ####
+
+breakpoint  score: 0.7360956 
+location: top: 1365¡¢ bottom: 1421¡¢ left: 49¡¢ right: 112
+####  center location:(80.5,1393.0)  ####
+
+breakpoint  score: 0.7956747 
+location: top: 126¡¢ bottom: 181¡¢ left: 159¡¢ right: 222
+####  center location:(190.5,153.5)  ####
+
+
+-----------------------------
+
+000055.jpg detect_result£º
+find  8 target(s) 
+defect  score: 0.5733224 
+location: top: 137¡¢ bottom: 175¡¢ left: 169¡¢ right: 213
+####  center location:(191.0,156.0)  ####
+
+defect  score: 0.7606784 
+location: top: 199¡¢ bottom: 239¡¢ left: 351¡¢ right: 390
+####  center location:(370.5,219.0)  ####
+
+defect  score: 0.84067005 
+location: top: 961¡¢ bottom: 1001¡¢ left: 937¡¢ right: 976
+####  center location:(956.5,981.0)  ####
+
+defect  score: 0.9207965 
+location: top: 199¡¢ bottom: 237¡¢ left: 171¡¢ right: 209
+####  center location:(190.0,218.0)  ####
+
+defect  score: 0.96308655 
+location: top: 1110¡¢ bottom: 1148¡¢ left: 259¡¢ right: 300
+####  center location:(279.5,1129.0)  ####
+
+defect  score: 0.96648204 
+location: top: 260¡¢ bottom: 297¡¢ left: 169¡¢ right: 211
+####  center location:(190.0,278.5)  ####
+
+breakpoint  score: 0.36668327 
+location: top: 127¡¢ bottom: 181¡¢ left: 160¡¢ right: 221
+####  center location:(190.5,154.0)  ####
+
+breakpoint  score: 0.61999637 
+location: top: 1366¡¢ bottom: 1421¡¢ left: 49¡¢ right: 111
+####  center location:(80.0,1393.5)  ####
+
+
+-----------------------------
+
+000056.jpg detect_result£º
+find  7 target(s) 
+defect  score: 0.69295305 
+location: top: 1377¡¢ bottom: 1415¡¢ left: 58¡¢ right: 100
+####  center location:(79.0,1396.0)  ####
+
+defect  score: 0.8353053 
+location: top: 138¡¢ bottom: 175¡¢ left: 171¡¢ right: 211
+####  center location:(191.0,156.5)  ####
+
+defect  score: 0.8419365 
+location: top: 198¡¢ bottom: 240¡¢ left: 351¡¢ right: 390
+####  center location:(370.5,219.0)  ####
+
+defect  score: 0.95357317 
+location: top: 198¡¢ bottom: 238¡¢ left: 171¡¢ right: 209
+####  center location:(190.0,218.0)  ####
+
+defect  score: 0.9552169 
+location: top: 960¡¢ bottom: 1001¡¢ left: 937¡¢ right: 975
+####  center location:(956.0,980.5)  ####
+
+defect  score: 0.9652862 
+location: top: 1109¡¢ bottom: 1148¡¢ left: 259¡¢ right: 300
+####  center location:(279.5,1128.5)  ####
+
+defect  score: 0.96824014 
+location: top: 259¡¢ bottom: 297¡¢ left: 170¡¢ right: 212
+####  center location:(191.0,278.0)  ####
+
+
+-----------------------------
+
+000057.jpg detect_result£º
+find  7 target(s) 
+defect  score: 0.8510344 
+location: top: 197¡¢ bottom: 241¡¢ left: 350¡¢ right: 392
+####  center location:(371.0,219.0)  ####
+
+defect  score: 0.8701477 
+location: top: 1378¡¢ bottom: 1416¡¢ left: 58¡¢ right: 97
+####  center location:(77.5,1397.0)  ####
+
+defect  score: 0.8919939 
+location: top: 138¡¢ bottom: 176¡¢ left: 169¡¢ right: 213
+####  center location:(191.0,157.0)  ####
+
+defect  score: 0.96371484 
+location: top: 1108¡¢ bottom: 1148¡¢ left: 259¡¢ right: 301
+####  center location:(280.0,1128.0)  ####
+
+defect  score: 0.96670294 
+location: top: 259¡¢ bottom: 297¡¢ left: 169¡¢ right: 213
+####  center location:(191.0,278.0)  ####
+
+defect  score: 0.96673626 
+location: top: 197¡¢ bottom: 239¡¢ left: 171¡¢ right: 210
+####  center location:(190.5,218.0)  ####
+
+defect  score: 0.97842807 
+location: top: 960¡¢ bottom: 1002¡¢ left: 936¡¢ right: 976
+####  center location:(956.0,981.0)  ####
+
+
+-----------------------------
+
+000058.jpg detect_result£º
+find  7 target(s) 
+defect  score: 0.8582527 
+location: top: 196¡¢ bottom: 242¡¢ left: 350¡¢ right: 392
+####  center location:(371.0,219.0)  ####
+
+defect  score: 0.9135729 
+location: top: 1378¡¢ bottom: 1416¡¢ left: 58¡¢ right: 96
+####  center location:(77.0,1397.0)  ####
+
+defect  score: 0.9234634 
+location: top: 137¡¢ bottom: 177¡¢ left: 169¡¢ right: 214
+####  center location:(191.5,157.0)  ####
+
+defect  score: 0.9478035 
+location: top: 1108¡¢ bottom: 1149¡¢ left: 257¡¢ right: 302
+####  center location:(279.5,1128.5)  ####
+
+defect  score: 0.96616036 
+location: top: 258¡¢ bottom: 297¡¢ left: 169¡¢ right: 213
+####  center location:(191.0,277.5)  ####
+
+defect  score: 0.97267365 
+location: top: 195¡¢ bottom: 240¡¢ left: 170¡¢ right: 211
+####  center location:(190.5,217.5)  ####
+
+defect  score: 0.9840848 
+location: top: 959¡¢ bottom: 1002¡¢ left: 936¡¢ right: 977
+####  center location:(956.5,980.5)  ####
+
+
+-----------------------------
+
+000059.jpg detect_result£º
+find  7 target(s) 
+defect  score: 0.84009486 
+location: top: 194¡¢ bottom: 242¡¢ left: 349¡¢ right: 393
+####  center location:(371.0,218.0)  ####
+
+defect  score: 0.9299609 
+location: top: 136¡¢ bottom: 177¡¢ left: 168¡¢ right: 215
+####  center location:(191.5,156.5)  ####
+
+defect  score: 0.93282795 
+location: top: 1107¡¢ bottom: 1149¡¢ left: 257¡¢ right: 302
+####  center location:(279.5,1128.0)  ####
+
+defect  score: 0.9483925 
+location: top: 1377¡¢ bottom: 1417¡¢ left: 56¡¢ right: 95
+####  center location:(75.5,1397.0)  ####
+
+defect  score: 0.9650558 
+location: top: 257¡¢ bottom: 297¡¢ left: 167¡¢ right: 214
+####  center location:(190.5,277.0)  ####
+
+defect  score: 0.97132254 
+location: top: 194¡¢ bottom: 241¡¢ left: 169¡¢ right: 212
+####  center location:(190.5,217.5)  ####
+
+defect  score: 0.9835939 
+location: top: 958¡¢ bottom: 1002¡¢ left: 936¡¢ right: 978
+####  center location:(957.0,980.0)  ####
+
+
+-----------------------------
+
+000060.jpg detect_result£º
+find  7 target(s) 
+defect  score: 0.8124722 
+location: top: 185¡¢ bottom: 246¡¢ left: 343¡¢ right: 399
+####  center location:(371.0,215.5)  ####
+
+defect  score: 0.9023607 
+location: top: 1107¡¢ bottom: 1149¡¢ left: 256¡¢ right: 303
+####  center location:(279.5,1128.0)  ####
+
+defect  score: 0.92992663 
+location: top: 136¡¢ bottom: 178¡¢ left: 167¡¢ right: 216
+####  center location:(191.5,157.0)  ####
+
+defect  score: 0.9545656 
+location: top: 256¡¢ bottom: 298¡¢ left: 166¡¢ right: 215
+####  center location:(190.5,277.0)  ####
+
+defect  score: 0.9580185 
+location: top: 1375¡¢ bottom: 1417¡¢ left: 54¡¢ right: 96
+####  center location:(75.0,1396.0)  ####
+
+defect  score: 0.9664111 
+location: top: 193¡¢ bottom: 241¡¢ left: 168¡¢ right: 213
+####  center location:(190.5,217.0)  ####
+
+defect  score: 0.98292905 
+location: top: 957¡¢ bottom: 1003¡¢ left: 936¡¢ right: 979
+####  center location:(957.5,980.0)  ####
+
+
+-----------------------------
+
+000061.jpg detect_result£º
+find  7 target(s) 
+defect  score: 0.85697263 
+location: top: 1106¡¢ bottom: 1150¡¢ left: 255¡¢ right: 304
+####  center location:(279.5,1128.0)  ####
+
+defect  score: 0.8661689 
+location: top: 185¡¢ bottom: 246¡¢ left: 343¡¢ right: 399
+####  center location:(371.0,215.5)  ####
+
+defect  score: 0.9184479 
+location: top: 134¡¢ bottom: 178¡¢ left: 165¡¢ right: 217
+####  center location:(191.0,156.0)  ####
+
+defect  score: 0.932342 
+location: top: 255¡¢ bottom: 299¡¢ left: 165¡¢ right: 215
+####  center location:(190.0,277.0)  ####
+
+defect  score: 0.9514237 
+location: top: 1373¡¢ bottom: 1418¡¢ left: 52¡¢ right: 97
+####  center location:(74.5,1395.5)  ####
+
+defect  score: 0.95927197 
+location: top: 192¡¢ bottom: 241¡¢ left: 167¡¢ right: 214
+####  center location:(190.5,216.5)  ####
+
+defect  score: 0.9812457 
+location: top: 956¡¢ bottom: 1003¡¢ left: 936¡¢ right: 979
+####  center location:(957.5,979.5)  ####
+
+
+-----------------------------
+
+000062.jpg detect_result£º
+find  7 target(s) 
+defect  score: 0.87266535 
+location: top: 185¡¢ bottom: 246¡¢ left: 343¡¢ right: 399
+####  center location:(371.0,215.5)  ####
+
+defect  score: 0.8853673 
+location: top: 1095¡¢ bottom: 1152¡¢ left: 248¡¢ right: 312
+####  center location:(280.0,1123.5)  ####
+
+defect  score: 0.9032713 
+location: top: 250¡¢ bottom: 304¡¢ left: 160¡¢ right: 219
+####  center location:(189.5,277.0)  ####
+
+defect  score: 0.9374188 
+location: top: 1371¡¢ bottom: 1418¡¢ left: 50¡¢ right: 98
+####  center location:(74.0,1394.5)  ####
+
+defect  score: 0.94197494 
+location: top: 127¡¢ bottom: 183¡¢ left: 159¡¢ right: 221
+####  center location:(190.0,155.0)  ####
+
+defect  score: 0.94419116 
+location: top: 191¡¢ bottom: 239¡¢ left: 166¡¢ right: 215
+####  center location:(190.5,215.0)  ####
+
+defect  score: 0.97793067 
+location: top: 955¡¢ bottom: 1003¡¢ left: 935¡¢ right: 980
+####  center location:(957.5,979.0)  ####
+
+
+-----------------------------
+
+000063.jpg detect_result£º
+find  7 target(s) 
+defect  score: 0.87852097 
+location: top: 185¡¢ bottom: 247¡¢ left: 342¡¢ right: 399
+####  center location:(370.5,216.0)  ####
+
+defect  score: 0.9127888 
+location: top: 250¡¢ bottom: 305¡¢ left: 160¡¢ right: 219
+####  center location:(189.5,277.5)  ####
+
+defect  score: 0.9247375 
+location: top: 1094¡¢ bottom: 1153¡¢ left: 247¡¢ right: 312
+####  center location:(279.5,1123.5)  ####
+
+defect  score: 0.93451434 
+location: top: 1363¡¢ bottom: 1421¡¢ left: 45¡¢ right: 104
+####  center location:(74.5,1392.0)  ####
+
+defect  score: 0.9522154 
+location: top: 187¡¢ bottom: 241¡¢ left: 160¡¢ right: 220
+####  center location:(190.0,214.0)  ####
+
+defect  score: 0.9605245 
+location: top: 127¡¢ bottom: 183¡¢ left: 159¡¢ right: 221
+####  center location:(190.0,155.0)  ####
+
+defect  score: 0.9716601 
+location: top: 955¡¢ bottom: 1003¡¢ left: 934¡¢ right: 981
+####  center location:(957.5,979.0)  ####
+
+
+-----------------------------
+
+000064.jpg detect_result£º
+find  7 target(s) 
+defect  score: 0.82079744 
+location: top: 185¡¢ bottom: 247¡¢ left: 342¡¢ right: 400
+####  center location:(371.0,216.0)  ####
+
+defect  score: 0.9192867 
+location: top: 249¡¢ bottom: 306¡¢ left: 160¡¢ right: 219
+####  center location:(189.5,277.5)  ####
+
+defect  score: 0.93422204 
+location: top: 1092¡¢ bottom: 1153¡¢ left: 247¡¢ right: 312
+####  center location:(279.5,1122.5)  ####
+
+defect  score: 0.9455695 
+location: top: 187¡¢ bottom: 241¡¢ left: 159¡¢ right: 221
+####  center location:(190.0,214.0)  ####
+
+defect  score: 0.9528799 
+location: top: 1363¡¢ bottom: 1421¡¢ left: 45¡¢ right: 105
+####  center location:(75.0,1392.0)  ####
+
+defect  score: 0.9633963 
+location: top: 954¡¢ bottom: 1004¡¢ left: 933¡¢ right: 981
+####  center location:(957.0,979.0)  ####
+
+defect  score: 0.9705392 
+location: top: 126¡¢ bottom: 183¡¢ left: 159¡¢ right: 221
+####  center location:(190.0,154.5)  ####
+
+
+-----------------------------
+
+000065.jpg detect_result£º
+find  7 target(s) 
+defect  score: 0.56078863 
+location: top: 186¡¢ bottom: 247¡¢ left: 343¡¢ right: 400
+####  center location:(371.5,216.5)  ####
+
+defect  score: 0.9118495 
+location: top: 187¡¢ bottom: 240¡¢ left: 158¡¢ right: 221
+####  center location:(189.5,213.5)  ####
+
+defect  score: 0.9211201 
+location: top: 1091¡¢ bottom: 1153¡¢ left: 247¡¢ right: 311
+####  center location:(279.0,1122.0)  ####
+
+defect  score: 0.92697465 
+location: top: 249¡¢ bottom: 306¡¢ left: 160¡¢ right: 219
+####  center location:(189.5,277.5)  ####
+
+defect  score: 0.94416595 
+location: top: 953¡¢ bottom: 1004¡¢ left: 932¡¢ right: 982
+####  center location:(957.0,978.5)  ####
+
+defect  score: 0.9604283 
+location: top: 1363¡¢ bottom: 1420¡¢ left: 44¡¢ right: 106
+####  center location:(75.0,1391.5)  ####
+
+defect  score: 0.9645947 
+location: top: 125¡¢ bottom: 183¡¢ left: 158¡¢ right: 220
+####  center location:(189.0,154.0)  ####
+
+
+-----------------------------
+
+000066.jpg detect_result£º
+find  6 target(s) 
+defect  score: 0.76949644 
+location: top: 187¡¢ bottom: 240¡¢ left: 158¡¢ right: 221
+####  center location:(189.5,213.5)  ####
+
+defect  score: 0.89075404 
+location: top: 1091¡¢ bottom: 1152¡¢ left: 247¡¢ right: 311
+####  center location:(279.0,1121.5)  ####
+
+defect  score: 0.9025907 
+location: top: 125¡¢ bottom: 182¡¢ left: 158¡¢ right: 221
+####  center location:(189.5,153.5)  ####
+
+defect  score: 0.91604376 
+location: top: 249¡¢ bottom: 307¡¢ left: 159¡¢ right: 219
+####  center location:(189.0,278.0)  ####
+
+defect  score: 0.94402164 
+location: top: 947¡¢ bottom: 1006¡¢ left: 927¡¢ right: 986
+####  center location:(956.5,976.5)  ####
+
+defect  score: 0.96434575 
+location: top: 1363¡¢ bottom: 1420¡¢ left: 44¡¢ right: 107
+####  center location:(75.5,1391.5)  ####
+
+
+-----------------------------
+
+000067.jpg detect_result£º
+find  5 target(s) 
+defect  score: 0.42060256 
+location: top: 188¡¢ bottom: 240¡¢ left: 157¡¢ right: 222
+####  center location:(189.5,214.0)  ####
+
+defect  score: 0.693454 
+location: top: 1090¡¢ bottom: 1150¡¢ left: 246¡¢ right: 311
+####  center location:(278.5,1120.0)  ####
+
+defect  score: 0.8037362 
+location: top: 252¡¢ bottom: 309¡¢ left: 158¡¢ right: 220
+####  center location:(189.0,280.5)  ####
+
+defect  score: 0.94421065 
+location: top: 947¡¢ bottom: 1006¡¢ left: 926¡¢ right: 986
+####  center location:(956.0,976.5)  ####
+
+defect  score: 0.9635695 
+location: top: 1363¡¢ bottom: 1421¡¢ left: 43¡¢ right: 107
+####  center location:(75.0,1392.0)  ####
+
+
+-----------------------------
+
+000068.jpg detect_result£º
+find  2 target(s) 
+defect  score: 0.908754 
+location: top: 947¡¢ bottom: 1006¡¢ left: 925¡¢ right: 984
+####  center location:(954.5,976.5)  ####
+
+defect  score: 0.94951606 
+location: top: 1364¡¢ bottom: 1421¡¢ left: 43¡¢ right: 107
+####  center location:(75.0,1392.5)  ####
+
+
+-----------------------------
+
+000069.jpg detect_result£º
+find  2 target(s) 
+defect  score: 0.79484206 
+location: top: 948¡¢ bottom: 1006¡¢ left: 923¡¢ right: 984
+####  center location:(953.5,977.0)  ####
+
+defect  score: 0.837062 
+location: top: 1364¡¢ bottom: 1422¡¢ left: 43¡¢ right: 107
+####  center location:(75.0,1393.0)  ####
+
+
+-----------------------------
+
+000070.jpg detect_result£º
+find  2 target(s) 
+defect  score: 0.3278978 
+location: top: 223¡¢ bottom: 260¡¢ left: 171¡¢ right: 213
+####  center location:(192.0,241.5)  ####
+
+defect  score: 0.33296433 
+location: top: 1391¡¢ bottom: 1434¡¢ left: 57¡¢ right: 106
+####  center location:(81.5,1412.5)  ####
+
+
+-----------------------------
+
+000071.jpg detect_result£º
+find  3 target(s) 
+defect  score: 0.53239846 
+location: top: 223¡¢ bottom: 262¡¢ left: 172¡¢ right: 212
+####  center location:(192.0,242.5)  ####
+
+breakpoint  score: 0.4020758 
+location: top: 278¡¢ bottom: 333¡¢ left: 159¡¢ right: 222
+####  center location:(190.5,305.5)  ####
+
+breakpoint  score: 0.74867904 
+location: top: 714¡¢ bottom: 772¡¢ left: 1192¡¢ right: 1256
+####  center location:(1224.0,743.0)  ####
+
+
+-----------------------------
+
+000072.jpg detect_result£º
+find  3 target(s) 
+defect  score: 0.31799883 
+location: top: 222¡¢ bottom: 261¡¢ left: 173¡¢ right: 213
+####  center location:(193.0,241.5)  ####
+
+breakpoint  score: 0.70986456 
+location: top: 277¡¢ bottom: 332¡¢ left: 159¡¢ right: 222
+####  center location:(190.5,304.5)  ####
+
+breakpoint  score: 0.8895621 
+location: top: 712¡¢ bottom: 770¡¢ left: 1193¡¢ right: 1256
+####  center location:(1224.5,741.0)  ####
+
+
+-----------------------------
+
+000073.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.79916245 
+location: top: 276¡¢ bottom: 332¡¢ left: 159¡¢ right: 222
+####  center location:(190.5,304.0)  ####
+
+breakpoint  score: 0.9304933 
+location: top: 711¡¢ bottom: 770¡¢ left: 1193¡¢ right: 1256
+####  center location:(1224.5,740.5)  ####
+
+
+-----------------------------
+
+000074.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.8416525 
+location: top: 276¡¢ bottom: 331¡¢ left: 158¡¢ right: 221
+####  center location:(189.5,303.5)  ####
+
+breakpoint  score: 0.9469446 
+location: top: 710¡¢ bottom: 769¡¢ left: 1194¡¢ right: 1256
+####  center location:(1225.0,739.5)  ####
+
+
+-----------------------------
+
+000075.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.7727721 
+location: top: 276¡¢ bottom: 331¡¢ left: 158¡¢ right: 222
+####  center location:(190.0,303.5)  ####
+
+breakpoint  score: 0.9529129 
+location: top: 710¡¢ bottom: 769¡¢ left: 1195¡¢ right: 1256
+####  center location:(1225.5,739.5)  ####
+
+
+-----------------------------
+
+000076.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.75895685 
+location: top: 277¡¢ bottom: 330¡¢ left: 158¡¢ right: 223
+####  center location:(190.5,303.5)  ####
+
+breakpoint  score: 0.9519084 
+location: top: 710¡¢ bottom: 769¡¢ left: 1195¡¢ right: 1256
+####  center location:(1225.5,739.5)  ####
+
+
+-----------------------------
+
+000077.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.66840833 
+location: top: 276¡¢ bottom: 330¡¢ left: 159¡¢ right: 224
+####  center location:(191.5,303.0)  ####
+
+breakpoint  score: 0.95331836 
+location: top: 710¡¢ bottom: 769¡¢ left: 1195¡¢ right: 1256
+####  center location:(1225.5,739.5)  ####
+
+
+-----------------------------
+
+000078.jpg detect_result£º
+find  3 target(s) 
+breakpoint  score: 0.5669211 
+location: top: 276¡¢ bottom: 331¡¢ left: 160¡¢ right: 224
+####  center location:(192.0,303.5)  ####
+
+breakpoint  score: 0.65227133 
+location: top: 768¡¢ bottom: 825¡¢ left: 962¡¢ right: 1023
+####  center location:(992.5,796.5)  ####
+
+breakpoint  score: 0.956917 
+location: top: 710¡¢ bottom: 769¡¢ left: 1195¡¢ right: 1257
+####  center location:(1226.0,739.5)  ####
+
+
+-----------------------------
+
+000079.jpg detect_result£º
+find  3 target(s) 
+breakpoint  score: 0.61686265 
+location: top: 275¡¢ bottom: 330¡¢ left: 160¡¢ right: 225
+####  center location:(192.5,302.5)  ####
+
+breakpoint  score: 0.75408614 
+location: top: 768¡¢ bottom: 825¡¢ left: 960¡¢ right: 1023
+####  center location:(991.5,796.5)  ####
+
+breakpoint  score: 0.9550064 
+location: top: 709¡¢ bottom: 769¡¢ left: 1195¡¢ right: 1258
+####  center location:(1226.5,739.0)  ####
+
+
+-----------------------------
+
+000080.jpg detect_result£º
+find  3 target(s) 
+breakpoint  score: 0.63568056 
+location: top: 274¡¢ bottom: 330¡¢ left: 160¡¢ right: 226
+####  center location:(193.0,302.0)  ####
+
+breakpoint  score: 0.82637656 
+location: top: 769¡¢ bottom: 825¡¢ left: 960¡¢ right: 1024
+####  center location:(992.0,797.0)  ####
+
+breakpoint  score: 0.93632746 
+location: top: 709¡¢ bottom: 769¡¢ left: 1195¡¢ right: 1258
+####  center location:(1226.5,739.0)  ####
+
+
+-----------------------------
+
+000081.jpg detect_result£º
+find  3 target(s) 
+breakpoint  score: 0.68753284 
+location: top: 274¡¢ bottom: 330¡¢ left: 159¡¢ right: 226
+####  center location:(192.5,302.0)  ####
+
+breakpoint  score: 0.81444097 
+location: top: 768¡¢ bottom: 824¡¢ left: 960¡¢ right: 1024
+####  center location:(992.0,796.0)  ####
+
+breakpoint  score: 0.89323807 
+location: top: 711¡¢ bottom: 768¡¢ left: 1195¡¢ right: 1259
+####  center location:(1227.0,739.5)  ####
+
+
+-----------------------------
+
+000082.jpg detect_result£º
+find  3 target(s) 
+breakpoint  score: 0.3423791 
+location: top: 768¡¢ bottom: 824¡¢ left: 961¡¢ right: 1025
+####  center location:(993.0,796.0)  ####
+
+breakpoint  score: 0.6771219 
+location: top: 275¡¢ bottom: 330¡¢ left: 159¡¢ right: 226
+####  center location:(192.5,302.5)  ####
+
+breakpoint  score: 0.80874515 
+location: top: 713¡¢ bottom: 768¡¢ left: 1193¡¢ right: 1259
+####  center location:(1226.0,740.5)  ####
+
+
+-----------------------------
+
+000083.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.7443056 
+location: top: 275¡¢ bottom: 330¡¢ left: 158¡¢ right: 226
+####  center location:(192.0,302.5)  ####
+
+breakpoint  score: 0.7661745 
+location: top: 713¡¢ bottom: 768¡¢ left: 1192¡¢ right: 1259
+####  center location:(1225.5,740.5)  ####
+
+
+-----------------------------
+
+000084.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.70782334 
+location: top: 715¡¢ bottom: 767¡¢ left: 1191¡¢ right: 1258
+####  center location:(1224.5,741.0)  ####
+
+breakpoint  score: 0.71418446 
+location: top: 277¡¢ bottom: 328¡¢ left: 157¡¢ right: 225
+####  center location:(191.0,302.5)  ####
+
+
+-----------------------------
+
+000085.jpg detect_result£º
+find  3 target(s) 
+defect  score: 0.42737943 
+location: top: 284¡¢ bottom: 322¡¢ left: 165¡¢ right: 212
+####  center location:(188.5,303.0)  ####
+
+breakpoint  score: 0.5053328 
+location: top: 279¡¢ bottom: 327¡¢ left: 156¡¢ right: 222
+####  center location:(189.0,303.0)  ####
+
+breakpoint  score: 0.662812 
+location: top: 717¡¢ bottom: 767¡¢ left: 1190¡¢ right: 1257
+####  center location:(1223.5,742.0)  ####
+
+
+-----------------------------
+
+000086.jpg detect_result£º
+find  3 target(s) 
+defect  score: 0.7880179 
+location: top: 285¡¢ bottom: 322¡¢ left: 166¡¢ right: 210
+####  center location:(188.0,303.5)  ####
+
+breakpoint  score: 0.569209 
+location: top: 767¡¢ bottom: 828¡¢ left: 950¡¢ right: 1014
+####  center location:(982.0,797.5)  ####
+
+breakpoint  score: 0.7751541 
+location: top: 716¡¢ bottom: 768¡¢ left: 1190¡¢ right: 1256
+####  center location:(1223.0,742.0)  ####
+
+
+-----------------------------
+
+000087.jpg detect_result£º
+find  4 target(s) 
+defect  score: 0.4551385 
+location: top: 725¡¢ bottom: 762¡¢ left: 1199¡¢ right: 1244
+####  center location:(1221.5,743.5)  ####
+
+defect  score: 0.9203815 
+location: top: 285¡¢ bottom: 323¡¢ left: 167¡¢ right: 208
+####  center location:(187.5,304.0)  ####
+
+breakpoint  score: 0.50352687 
+location: top: 717¡¢ bottom: 768¡¢ left: 1190¡¢ right: 1254
+####  center location:(1222.0,742.5)  ####
+
+breakpoint  score: 0.677321 
+location: top: 770¡¢ bottom: 827¡¢ left: 957¡¢ right: 1025
+####  center location:(991.0,798.5)  ####
+
+
+-----------------------------
+
+000088.jpg detect_result£º
+find  3 target(s) 
+defect  score: 0.9161766 
+location: top: 726¡¢ bottom: 764¡¢ left: 1202¡¢ right: 1241
+####  center location:(1221.5,745.0)  ####
+
+defect  score: 0.96573174 
+location: top: 284¡¢ bottom: 324¡¢ left: 168¡¢ right: 207
+####  center location:(187.5,304.0)  ####
+
+breakpoint  score: 0.4749078 
+location: top: 772¡¢ bottom: 826¡¢ left: 956¡¢ right: 1025
+####  center location:(990.5,799.0)  ####
+
+
+-----------------------------
+
+000089.jpg detect_result£º
+find  3 target(s) 
+defect  score: 0.62977254 
+location: top: 789¡¢ bottom: 824¡¢ left: 964¡¢ right: 1005
+####  center location:(984.5,806.5)  ####
+
+defect  score: 0.9615678 
+location: top: 726¡¢ bottom: 766¡¢ left: 1203¡¢ right: 1240
+####  center location:(1221.5,746.0)  ####
+
+defect  score: 0.97736835 
+location: top: 283¡¢ bottom: 324¡¢ left: 168¡¢ right: 207
+####  center location:(187.5,303.5)  ####
+
+
+-----------------------------
+
+000090.jpg detect_result£º
+find  3 target(s) 
+defect  score: 0.69861066 
+location: top: 788¡¢ bottom: 824¡¢ left: 964¡¢ right: 1006
+####  center location:(985.0,806.0)  ####
+
+defect  score: 0.97179073 
+location: top: 724¡¢ bottom: 768¡¢ left: 1203¡¢ right: 1242
+####  center location:(1222.5,746.0)  ####
+
+defect  score: 0.9782149 
+location: top: 282¡¢ bottom: 325¡¢ left: 168¡¢ right: 208
+####  center location:(188.0,303.5)  ####
+
+
+-----------------------------
+
+000091.jpg detect_result£º
+find  3 target(s) 
+defect  score: 0.71246153 
+location: top: 787¡¢ bottom: 825¡¢ left: 964¡¢ right: 1007
+####  center location:(985.5,806.0)  ####
+
+defect  score: 0.97103393 
+location: top: 722¡¢ bottom: 769¡¢ left: 1202¡¢ right: 1243
+####  center location:(1222.5,745.5)  ####
+
+defect  score: 0.97393167 
+location: top: 281¡¢ bottom: 325¡¢ left: 166¡¢ right: 209
+####  center location:(187.5,303.0)  ####
+
+
+-----------------------------
+
+000092.jpg detect_result£º
+find  3 target(s) 
+defect  score: 0.6894614 
+location: top: 786¡¢ bottom: 825¡¢ left: 963¡¢ right: 1007
+####  center location:(985.0,805.5)  ####
+
+defect  score: 0.96504897 
+location: top: 721¡¢ bottom: 769¡¢ left: 1201¡¢ right: 1244
+####  center location:(1222.5,745.0)  ####
+
+defect  score: 0.96671206 
+location: top: 280¡¢ bottom: 324¡¢ left: 165¡¢ right: 210
+####  center location:(187.5,302.0)  ####
+
+
+-----------------------------
+
+000093.jpg detect_result£º
+find  3 target(s) 
+defect  score: 0.72673 
+location: top: 777¡¢ bottom: 824¡¢ left: 962¡¢ right: 1007
+####  center location:(984.5,800.5)  ####
+
+defect  score: 0.952309 
+location: top: 279¡¢ bottom: 324¡¢ left: 164¡¢ right: 212
+####  center location:(188.0,301.5)  ####
+
+defect  score: 0.96298224 
+location: top: 721¡¢ bottom: 769¡¢ left: 1201¡¢ right: 1245
+####  center location:(1223.0,745.0)  ####
+
+
+-----------------------------
+
+000094.jpg detect_result£º
+find  3 target(s) 
+defect  score: 0.7866031 
+location: top: 776¡¢ bottom: 825¡¢ left: 962¡¢ right: 1008
+####  center location:(985.0,800.5)  ####
+
+defect  score: 0.93102103 
+location: top: 272¡¢ bottom: 330¡¢ left: 160¡¢ right: 216
+####  center location:(188.0,301.0)  ####
+
+defect  score: 0.95450395 
+location: top: 720¡¢ bottom: 770¡¢ left: 1200¡¢ right: 1246
+####  center location:(1223.0,745.0)  ####
+
+
+-----------------------------
+
+000095.jpg detect_result£º
+find  3 target(s) 
+defect  score: 0.83754563 
+location: top: 770¡¢ bottom: 830¡¢ left: 956¡¢ right: 1013
+####  center location:(984.5,800.0)  ####
+
+defect  score: 0.9406015 
+location: top: 720¡¢ bottom: 770¡¢ left: 1200¡¢ right: 1247
+####  center location:(1223.5,745.0)  ####
+
+defect  score: 0.94816357 
+location: top: 272¡¢ bottom: 330¡¢ left: 159¡¢ right: 217
+####  center location:(188.0,301.0)  ####
+
+
+-----------------------------
+
+000096.jpg detect_result£º
+find  3 target(s) 
+defect  score: 0.87556595 
+location: top: 770¡¢ bottom: 830¡¢ left: 956¡¢ right: 1013
+####  center location:(984.5,800.0)  ####
+
+defect  score: 0.92302245 
+location: top: 712¡¢ bottom: 774¡¢ left: 1196¡¢ right: 1251
+####  center location:(1223.5,743.0)  ####
+
+defect  score: 0.95542485 
+location: top: 272¡¢ bottom: 331¡¢ left: 159¡¢ right: 217
+####  center location:(188.0,301.5)  ####
+
+
+-----------------------------
+
+000097.jpg detect_result£º
+find  3 target(s) 
+defect  score: 0.9131458 
+location: top: 770¡¢ bottom: 830¡¢ left: 956¡¢ right: 1013
+####  center location:(984.5,800.0)  ####
+
+defect  score: 0.9346064 
+location: top: 712¡¢ bottom: 773¡¢ left: 1195¡¢ right: 1252
+####  center location:(1223.5,742.5)  ####
+
+defect  score: 0.95728844 
+location: top: 272¡¢ bottom: 331¡¢ left: 158¡¢ right: 218
+####  center location:(188.0,301.5)  ####
+
+
+-----------------------------
+
+000098.jpg detect_result£º
+find  3 target(s) 
+defect  score: 0.9305744 
+location: top: 713¡¢ bottom: 772¡¢ left: 1194¡¢ right: 1253
+####  center location:(1223.5,742.5)  ####
+
+defect  score: 0.93237865 
+location: top: 770¡¢ bottom: 830¡¢ left: 955¡¢ right: 1013
+####  center location:(984.0,800.0)  ####
+
+defect  score: 0.94840777 
+location: top: 272¡¢ bottom: 331¡¢ left: 157¡¢ right: 218
+####  center location:(187.5,301.5)  ####
+
+
+-----------------------------
+
+000099.jpg detect_result£º
+find  3 target(s) 
+defect  score: 0.8846989 
+location: top: 715¡¢ bottom: 773¡¢ left: 1193¡¢ right: 1254
+####  center location:(1223.5,744.0)  ####
+
+defect  score: 0.892869 
+location: top: 274¡¢ bottom: 331¡¢ left: 157¡¢ right: 219
+####  center location:(188.0,302.5)  ####
+
+defect  score: 0.9491778 
+location: top: 769¡¢ bottom: 830¡¢ left: 954¡¢ right: 1013
+####  center location:(983.5,799.5)  ####
+
+
+-----------------------------
+
+000100.jpg detect_result£º
+find  3 target(s) 
+defect  score: 0.36304155 
+location: top: 278¡¢ bottom: 332¡¢ left: 156¡¢ right: 222
+####  center location:(189.0,305.0)  ####
+
+defect  score: 0.7763012 
+location: top: 716¡¢ bottom: 774¡¢ left: 1193¡¢ right: 1253
+####  center location:(1223.0,745.0)  ####
+
+defect  score: 0.9452614 
+location: top: 769¡¢ bottom: 830¡¢ left: 954¡¢ right: 1012
+####  center location:(983.0,799.5)  ####
+
+
+-----------------------------
+
+000101.jpg detect_result£º
+find  3 target(s) 
+defect  score: 0.4176482 
+location: top: 719¡¢ bottom: 776¡¢ left: 1194¡¢ right: 1254
+####  center location:(1224.0,747.5)  ####
+
+defect  score: 0.90527546 
+location: top: 769¡¢ bottom: 827¡¢ left: 951¡¢ right: 1012
+####  center location:(981.5,798.0)  ####
+
+breakpoint  score: 0.5336851 
+location: top: 1132¡¢ bottom: 1188¡¢ left: 213¡¢ right: 277
+####  center location:(245.0,1160.0)  ####
+
+
+-----------------------------
+
+000102.jpg detect_result£º
+find  4 target(s) 
+defect  score: 0.4068035 
+location: top: 744¡¢ bottom: 784¡¢ left: 1206¡¢ right: 1249
+####  center location:(1227.5,764.0)  ####
+
+defect  score: 0.47426492 
+location: top: 773¡¢ bottom: 818¡¢ left: 956¡¢ right: 1001
+####  center location:(978.5,795.5)  ####
+
+breakpoint  score: 0.62365675 
+location: top: 1245¡¢ bottom: 1301¡¢ left: 223¡¢ right: 287
+####  center location:(255.0,1273.0)  ####
+
+breakpoint  score: 0.8057679 
+location: top: 1130¡¢ bottom: 1186¡¢ left: 214¡¢ right: 279
+####  center location:(246.5,1158.0)  ####
+
+
+-----------------------------
+
+000103.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.7598105 
+location: top: 1248¡¢ bottom: 1304¡¢ left: 216¡¢ right: 280
+####  center location:(248.0,1276.0)  ####
+
+breakpoint  score: 0.8723451 
+location: top: 1130¡¢ bottom: 1185¡¢ left: 214¡¢ right: 279
+####  center location:(246.5,1157.5)  ####
+
+
+-----------------------------
+
+000104.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.84006333 
+location: top: 1248¡¢ bottom: 1304¡¢ left: 216¡¢ right: 280
+####  center location:(248.0,1276.0)  ####
+
+breakpoint  score: 0.8726266 
+location: top: 1129¡¢ bottom: 1185¡¢ left: 215¡¢ right: 280
+####  center location:(247.5,1157.0)  ####
+
+
+-----------------------------
+
+000105.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.8737873 
+location: top: 1247¡¢ bottom: 1305¡¢ left: 217¡¢ right: 280
+####  center location:(248.5,1276.0)  ####
+
+breakpoint  score: 0.89365476 
+location: top: 1129¡¢ bottom: 1185¡¢ left: 216¡¢ right: 279
+####  center location:(247.5,1157.0)  ####
+
+
+-----------------------------
+
+000106.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.903958 
+location: top: 1247¡¢ bottom: 1305¡¢ left: 218¡¢ right: 279
+####  center location:(248.5,1276.0)  ####
+
+breakpoint  score: 0.9243216 
+location: top: 1129¡¢ bottom: 1185¡¢ left: 216¡¢ right: 279
+####  center location:(247.5,1157.0)  ####
+
+
+-----------------------------
+
+000107.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.91600984 
+location: top: 1247¡¢ bottom: 1305¡¢ left: 218¡¢ right: 280
+####  center location:(249.0,1276.0)  ####
+
+breakpoint  score: 0.94483715 
+location: top: 1128¡¢ bottom: 1186¡¢ left: 216¡¢ right: 279
+####  center location:(247.5,1157.0)  ####
+
+
+-----------------------------
+
+000108.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.92507774 
+location: top: 1247¡¢ bottom: 1305¡¢ left: 217¡¢ right: 280
+####  center location:(248.5,1276.0)  ####
+
+breakpoint  score: 0.9476745 
+location: top: 1128¡¢ bottom: 1187¡¢ left: 216¡¢ right: 279
+####  center location:(247.5,1157.5)  ####
+
+
+-----------------------------
+
+000109.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.92487913 
+location: top: 1246¡¢ bottom: 1305¡¢ left: 217¡¢ right: 280
+####  center location:(248.5,1275.5)  ####
+
+breakpoint  score: 0.94416827 
+location: top: 1127¡¢ bottom: 1186¡¢ left: 216¡¢ right: 280
+####  center location:(248.0,1156.5)  ####
+
+
+-----------------------------
+
+000110.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.91763157 
+location: top: 1247¡¢ bottom: 1301¡¢ left: 220¡¢ right: 288
+####  center location:(254.0,1274.0)  ####
+
+breakpoint  score: 0.92380357 
+location: top: 1126¡¢ bottom: 1185¡¢ left: 216¡¢ right: 281
+####  center location:(248.5,1155.5)  ####
+
+
+-----------------------------
+
+000111.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.90925044 
+location: top: 1125¡¢ bottom: 1183¡¢ left: 221¡¢ right: 288
+####  center location:(254.5,1154.0)  ####
+
+breakpoint  score: 0.92825747 
+location: top: 1246¡¢ bottom: 1302¡¢ left: 220¡¢ right: 288
+####  center location:(254.0,1274.0)  ####
+
+
+-----------------------------
+
+000112.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.9037881 
+location: top: 1126¡¢ bottom: 1184¡¢ left: 221¡¢ right: 289
+####  center location:(255.0,1155.0)  ####
+
+breakpoint  score: 0.95024955 
+location: top: 1245¡¢ bottom: 1303¡¢ left: 222¡¢ right: 288
+####  center location:(255.0,1274.0)  ####
+
+
+-----------------------------
+
+000113.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.8896821 
+location: top: 1126¡¢ bottom: 1185¡¢ left: 222¡¢ right: 289
+####  center location:(255.5,1155.5)  ####
+
+breakpoint  score: 0.9551135 
+location: top: 1244¡¢ bottom: 1302¡¢ left: 222¡¢ right: 289
+####  center location:(255.5,1273.0)  ####
+
+
+-----------------------------
+
+000114.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.84832925 
+location: top: 1127¡¢ bottom: 1186¡¢ left: 223¡¢ right: 289
+####  center location:(256.0,1156.5)  ####
+
+breakpoint  score: 0.9438764 
+location: top: 1243¡¢ bottom: 1303¡¢ left: 224¡¢ right: 289
+####  center location:(256.5,1273.0)  ####
+
+
+-----------------------------
+
+000115.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.8523133 
+location: top: 1127¡¢ bottom: 1186¡¢ left: 224¡¢ right: 289
+####  center location:(256.5,1156.5)  ####
+
+breakpoint  score: 0.93085444 
+location: top: 1243¡¢ bottom: 1303¡¢ left: 224¡¢ right: 289
+####  center location:(256.5,1273.0)  ####
+
+
+-----------------------------
+
+000116.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.87568855 
+location: top: 1128¡¢ bottom: 1187¡¢ left: 224¡¢ right: 289
+####  center location:(256.5,1157.5)  ####
+
+breakpoint  score: 0.92200226 
+location: top: 1244¡¢ bottom: 1304¡¢ left: 225¡¢ right: 289
+####  center location:(257.0,1274.0)  ####
+
+
+-----------------------------
+
+000117.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.89393216 
+location: top: 1128¡¢ bottom: 1188¡¢ left: 224¡¢ right: 289
+####  center location:(256.5,1158.0)  ####
+
+breakpoint  score: 0.9082045 
+location: top: 1244¡¢ bottom: 1305¡¢ left: 225¡¢ right: 289
+####  center location:(257.0,1274.5)  ####
+
+
+-----------------------------
+
+000118.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.88897556 
+location: top: 1129¡¢ bottom: 1189¡¢ left: 224¡¢ right: 289
+####  center location:(256.5,1159.0)  ####
+
+breakpoint  score: 0.90788513 
+location: top: 1244¡¢ bottom: 1306¡¢ left: 226¡¢ right: 289
+####  center location:(257.5,1275.0)  ####
+
+
+-----------------------------
+
+000119.jpg detect_result£º
+find  2 target(s) 
+breakpoint  score: 0.8874268 
+location: top: 1129¡¢ bottom: 1188¡¢ left: 224¡¢ right: 288
+####  center location:(256.0,1158.5)  ####
+
+breakpoint  score: 0.9212533 
+location: top: 1244¡¢ bottom: 1306¡¢ left: 227¡¢ right: 289
+####  center location:(258.0,1275.0)  ####
+
+
+-----------------------------
+
+time sum: 38.325939655303955starget sum: 686
